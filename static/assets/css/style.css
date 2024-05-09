@@ -1,0 +1,126 @@
+body {
+    font-family: "Tahoma", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #8db580; /* couleur rappelant la jungle */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+	background:url("../img/monkeybg.png") #1b8c1b66 ;
+	background-size: 5%;
+}
+
+header {
+    background-color: #447d52; /* couleur rappelant la jungle */
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.header-left h1 {
+    margin: 0;
+    align-items: center; 
+    display: flex;
+}
+
+.header-left img {
+    width: 80px;
+}
+
+.header-center {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-center a {
+    margin: 0 10px; /* Espacement entre les boutons */
+    transition: all 0.3s ease;
+}
+
+@media screen and (max-width: 768px) {
+    .header-center {
+        flex-direction: column; /* Affichage en colonnes sur les écrans plus petits */
+    }
+
+    .header-center a {
+        margin: 5px 0; /* Espacement vertical entre les boutons */
+    }
+}
+
+
+.header-center a:hover {
+    color: #ffd700; /* couleur dorée lors du survol */
+    font-size: 20px;
+}
+
+.header-right a {
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.header-right a:hover {
+    color: #ffd700; /* couleur dorée lors du survol */
+    font-size: 20px;
+}
+
+.header-right input {
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    background-color: #447d52;
+    border-width: 0px;
+    font-size: 17px;
+}
+
+.header-right input:hover {
+    color: #ffd700; /* couleur dorée lors du survol */
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.header-right{
+    font-size: 17px;
+}
+
+main {
+    flex-grow: 1; /* permet au contenu de s'étendre pour remplir l'espace restant */
+    padding: 20px;
+    display: flex;
+	align-items: center;
+	justify-content: center;
+    
+}
+
+#welcome {
+    text-align: center;
+    color: black;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, .2);
+    background-color: white;
+	border-radius: 40px;
+    display: flex;
+	align-items: center;
+	flex-direction: column;
+    padding: 20px;
+}
+
+#welcome img {
+    width: 50vh;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: #447d52; /* couleur rappelant la jungle */
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.link{
+    text-decoration: none;
+    color: white
+}

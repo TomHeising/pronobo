@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pronobo</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <h1><a href="/" class="link">Pronobo</a><img src="{{ url_for('static', filename='assets/img/monkeybg.png') }}"></h1>
+        </div>
+        <div class="header-center">
+            <a href="/" class="link">Home</a>
+            <a href="results" class="link">Results</a>
+            <a href="help" class="link">Help</a>
+            {% if session["username"] and session["username"] == "admin" %}
+                <a href="admin" class="link">Admin Panel</a>
+            {% endif %}
+        </div>
+        <div class="header-right">
+            {% if not session["username"] %}
+                <a href="login">Log in</a>
+            {% else %}
+                <form action="logout" method="post">
+                    Welcome {{ session["username"] }} !
+                    <input type="submit" value="Log out" class="logout-btn">
+                </form>
+            {% endif %}
+        </div>
+    </header>
+
+    {% if not session["username"] %}
+        <main>
+            <section id="welcome">
+                <h2>Please log in to see the results.</h2>
+            </section>
+        </main>
+
+    {% else %}
+        <main>
+            <section id="welcome">
+                <h2>Here is the results.</h2>
+            </section>
+        </main>
+
+    {% endif %}
+
+
+    <footer>
+        <p>&copy; 2024 Pronobo. All rights reserved.</p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,91 @@
+.formcon
+{
+	margin-top: 38px;
+}
+.formcon input
+{
+	height: 40px;
+	width: 300px;
+	/*background-color: #254E58;*/
+	border-radius: 20px;
+	border:none;
+	color: #5a5449;
+	text-indent: 15px;
+	font-size: 100%;
+	box-shadow: 0 10px 25px rgba(0, 0, 0, .2);
+	outline: none;
+}
+.formcon input::placeholder
+{
+	color:lightgrey;
+	font-size: 100%;
+	font-weight: lighter;
+	text-indent: 15px;
+}
+.sbutton
+{
+	text-indent: 0px;
+	height: 40px;
+	width: 300px;
+	margin-top: 10px;
+	background-color: #1b8c1b66;
+	transition: "2s";
+	border: none;
+	color: white;
+	font-weight: bolder;
+	box-shadow: 0 10px 25px rgba(0, 0, 0, .2);
+	outline: none;
+
+}
+.sbutton:hover
+{
+	color: #ffd700;
+	cursor: pointer;
+}
+
+.foot
+{
+	color: #5a5449;
+	font-weight: lighter;
+	margin-top: 40px;
+}
+
+.main-content {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.formcon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 0 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.tb {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.admin-main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.admin-main div{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.admin-main > div:first-child {
+    order: -1;
+}

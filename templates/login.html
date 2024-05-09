@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pronobo</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/style_login.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/style.css') }}">
+</head>
+<body>
+        <header>
+        <div class="header-left">
+            <h1><a href="/" class="link">Pronobo</a><img src="{{ url_for('static', filename='assets/img/monkeybg.png') }}"></h1>
+        </div>
+        <div class="header-center">
+            <a href="/" class="link">Home</a>
+            <a href="results" class="link">Results</a>
+            <a href="help" class="link">Help</a>
+            {% if session["username"] and session["username"] == "admin" %}
+                <a href="admin" class="link">Admin Panel</a>
+            {% endif %}
+        </div>
+        <div class="header-right">
+            {% if not session["username"] %}
+                <a href="login">Log in</a>
+            {% else %}
+                <form action="logout" method="post">
+                    Welcome {{ session["username"] }} !
+                    <input type="submit" value="Log out" class="logout-btn">
+                </form>
+            {% endif %}
+        </div>
+    </header>
+
+    <main>
+
+    {%- with messages = get_flashed_messages() %}
+	{% if messages %}
+		{% for message in messages %}
+			<script>
+			alert('{{ message }}');
+			</script>
+		{% endfor %}
+	{% endif %}
+	{% endwith -%}
+    
+    <div class="monkeylogin">
+        <div class="animcon" id="animcon">
+            <img id="hands" src="{{ url_for('static', filename='assets/img/hands.png') }}"/>
+        </div>
+        <div class="formcon">
+        <form action="/login" method="post">
+            <input type="text" id="username" onclick="openeye();" name="username" class="tb" placeholder="username" autocomplete="off" required/>
+            <br/>
+            <br/>
+            <input type="password" id="pwdbar" onclick="closeye();" name="pwd" class="tb" placeholder="Password" required/>
+            <br/>
+            <br/>
+            <input type="submit" class="sbutton" value="Login" />
+        </form>
+        </div>
+    </div>
+    </main>
+    <script type="text/javascript" src="{{ url_for('static', filename='assets/script/script_login.js') }}"></script>
+
+    <footer>
+        <p>&copy; 2024 Pronobo. Tous droits réservés.</p>
+    </footer>
+
+</body>
+</html>
