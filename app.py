@@ -133,7 +133,14 @@ def deleteAccount():
 
     data = (uservar, passwdvar)
 
-    try:
+    cur.execute('SELECT * FROM users WHERE username = ? and password = ?', data)
+    conn.commit()
+
+    liste = cur.fetchall()
+
+    if len(liste) > 0:
+
+
 
         cur.execute("DELETE FROM users WHERE username=? AND password=?", data)
         conn.commit()
@@ -145,13 +152,13 @@ def deleteAccount():
         return redirect(url_for('admin'))
         
 
-    except sqlite3.Error as e:
+    else :
 
         cur.close()
         conn.close()
 
-        flash("An error occurred while deleting the account.")
-        print("An error occurred:", e)  # Affiche l'erreur dans la console à des fins de débogage
+        flash("An error occurred while deleting the account. Please check data.")
+
         return redirect(url_for('admin'))
 
 
