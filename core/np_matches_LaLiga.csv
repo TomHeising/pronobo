@@ -1,0 +1,81 @@
+,date,time,comp,round,day,venue,result,gf,ga,opponent,xg,xga,poss,attendance,captain,formation,referee,match report,notes,season,team,sh,sot,dist,fk,pk,pkatt
+50,2024-05-11,20,La Liga,Matchweek 35,Sat,Away,,1.0,0.0,Granada,0.2,0.4,62.0,44200.0,,,,Head-to-Head,,2024,Real Madrid,2.0,1.0,18.5,0.0,0.0,0.0
+51,2024-05-14,19,La Liga,Matchweek 36,Tue,Home,,0.0,0.0,Alavés,1.1,1.1,57.0,33172.0,,,,Head-to-Head,,2024,Real Madrid,12.0,4.0,18.1,1.0,0.0,0.0
+52,2024-05-19,18,La Liga,Matchweek 37,Sun,Away,,1.0,2.0,Villarreal,1.2,2.2,62.0,65607.0,,,,Head-to-Head,,2024,Real Madrid,13.0,4.0,23.1,1.0,0.0,0.0
+53,2024-05-26,17,La Liga,Matchweek 38,Sun,Home,,2.0,1.0,Betis,2.2,1.2,38.0,65607.0,,,,Head-to-Head,,2024,Real Madrid,13.0,4.0,15.0,0.0,1.0,1.0
+49,2024-05-13,19,La Liga,Matchweek 35,Mon,Home,,0.0,1.0,Real Sociedad,1.1,2.4,42.0,41116.0,,,,Head-to-Head,,2024,Barcelona,12.0,3.0,13.2,0.0,0.0,0.0
+50,2024-05-16,17,La Liga,Matchweek 36,Thu,Away,,1.0,0.0,Almería,0.2,0.4,62.0,44200.0,,,,Head-to-Head,,2024,Barcelona,2.0,1.0,18.5,0.0,0.0,0.0
+51,2024-05-19,20,La Liga,Matchweek 37,Sun,Home,,0.0,0.0,Rayo Vallecano,1.1,1.1,57.0,33172.0,,,,Head-to-Head,,2024,Barcelona,12.0,4.0,18.1,1.0,0.0,0.0
+52,2024-05-26,18,La Liga,Matchweek 38,Sun,Away,,1.0,2.0,Sevilla,1.2,2.2,62.0,65607.0,,,,Head-to-Head,,2024,Barcelona,13.0,4.0,23.1,1.0,0.0,0.0
+39,2024-05-10,19,La Liga,Matchweek 35,Fri,Away,,1.0,1.0,Alavés,0.3,1.6,48.0,18653.0,,,,Head-to-Head,,2024,Girona,5.0,2.0,17.6,1.0,0.0,0.0
+40,2024-05-14,18,La Liga,Matchweek 36,Tue,Home,,3.0,4.0,Villarreal,2.1,4.6,42.0,44435.0,,,,Head-to-Head,,2024,Girona,12.0,4.0,21.2,0.0,0.0,1.0
+41,2024-05-19,20,La Liga,Matchweek 37,Sun,Away,,1.0,0.0,Valencia,1.4,0.5,39.0,18027.0,,,,Head-to-Head,,2024,Girona,11.0,4.0,17.2,0.0,0.0,0.0
+42,2024-05-26,20,La Liga,Matchweek 38,Sun,Home,,0.0,0.0,Granada,0.8,0.5,47.0,43375.0,,,,Head-to-Head,,2024,Girona,13.0,1.0,21.9,1.0,0.0,0.0
+50,2024-05-12,19,La Liga,Matchweek 35,Sun,Home,,1.0,0.0,Celta Vigo,0.2,0.4,62.0,44200.0,,,,Head-to-Head,,2024,Atletico Madrid,2.0,1.0,18.5,0.0,0.0,0.0
+51,2024-05-15,18,La Liga,Matchweek 36,Wed,Away,,0.0,0.0,Getafe,1.1,1.1,57.0,33172.0,,,,Head-to-Head,,2024,Atletico Madrid,12.0,4.0,18.1,1.0,0.0,0.0
+52,2024-05-19,18,La Liga,Matchweek 37,Sun,Home,,1.0,2.0,Osasuna,1.2,2.2,62.0,65607.0,,,,Head-to-Head,,2024,Atletico Madrid,13.0,4.0,23.1,1.0,0.0,0.0
+53,2024-05-26,18,La Liga,Matchweek 38,Sun,Away,,2.0,1.0,Real Sociedad,2.2,1.2,38.0,65607.0,,,,Head-to-Head,,2024,Atletico Madrid,13.0,4.0,15.0,0.0,1.0,1.0
+42,2024-05-11,18,La Liga,Matchweek 35,Sat,Home,,0.0,0.0,Osasuna,0.8,0.5,47.0,43375.0,,,,Head-to-Head,,2024,Athletic Club,13.0,1.0,21.9,1.0,0.0,0.0
+43,2024-05-15,18,La Liga,Matchweek 36,Wed,Away,,3.0,2.0,Celta Vigo,1.1,1.6,42.0,14192.0,,,,Head-to-Head,,2024,Athletic Club,15.0,8.0,16.4,0.0,0.0,0.0
+44,2024-05-19,18,La Liga,Matchweek 37,Sun,Home,,0.0,0.0,Sevilla,1.9,0.3,47.0,11936.0,,,,Head-to-Head,,2024,Athletic Club,20.0,2.0,15.5,0.0,0.0,0.0
+45,2024-05-26,20,La Liga,Matchweek 38,Sun,Away,,0.0,0.0,Rayo Vallecano,0.9,0.2,59.0,15310.0,,,,Head-to-Head,,2024,Athletic Club,15.0,4.0,17.4,0.0,0.0,0.0
+49,2024-05-13,20,La Liga,Matchweek 35,Mon,Away,,0.0,1.0,Barcelona,1.1,2.4,42.0,41116.0,,,,Head-to-Head,,2024,Real Sociedad,12.0,3.0,13.2,0.0,0.0,0.0
+50,2024-05-16,18,La Liga,Matchweek 36,Thu,Home,,1.0,0.0,Valencia,0.2,0.4,62.0,44200.0,,,,Head-to-Head,,2024,Real Sociedad,2.0,1.0,18.5,0.0,0.0,0.0
+51,2024-05-19,20,La Liga,Matchweek 37,Sun,Away,,0.0,0.0,Betis,1.1,1.1,57.0,33172.0,,,,Head-to-Head,,2024,Real Sociedad,12.0,4.0,18.1,1.0,0.0,0.0
+52,2024-05-26,20,La Liga,Matchweek 38,Sun,Home,,1.0,2.0,Atlético Madrid,1.2,2.2,62.0,65607.0,,,,Head-to-Head,,2024,Real Sociedad,13.0,4.0,23.1,1.0,0.0,0.0
+45,2024-05-12,19,La Liga,Matchweek 35,Sun,Home,,0.0,0.0,Almería,0.9,0.2,59.0,15310.0,,,,Head-to-Head,,2024,Real Betis,15.0,4.0,17.4,0.0,0.0,0.0
+46,2024-05-16,20,La Liga,Matchweek 36,Thu,Away,,1.0,1.0,Las Palmas,1.8,1.2,57.0,33898.0,,,,Head-to-Head,,2024,Real Betis,18.0,4.0,14.7,1.0,0.0,0.0
+47,2024-05-19,19,La Liga,Matchweek 37,Sun,Home,,2.0,2.0,Real Sociedad,1.2,1.1,66.0,18886.0,,,,Head-to-Head,,2024,Real Betis,20.0,10.0,16.8,0.0,0.0,0.0
+48,2024-05-26,19,La Liga,Matchweek 38,Sun,Away,,0.0,2.0,Real Madrid,0.7,1.3,61.0,28366.0,,,,Head-to-Head,,2024,Real Betis,11.0,2.0,15.0,1.0,0.0,0.0
+38,2024-05-12,20,La Liga,Matchweek 35,Sun,Home,,0.0,0.0,Rayo Vallecano,0.3,1.9,53.0,11936.0,,,,Head-to-Head,,2024,Valencia,7.0,1.0,24.4,2.0,0.0,0.0
+39,2024-05-16,18,La Liga,Matchweek 36,Thu,Away,,1.0,1.0,Real Sociedad,0.3,1.6,48.0,18653.0,,,,Head-to-Head,,2024,Valencia,5.0,2.0,17.6,1.0,0.0,0.0
+40,2024-05-19,20,La Liga,Matchweek 37,Sun,Home,,3.0,4.0,Girona,2.1,4.6,42.0,44435.0,,,,Head-to-Head,,2024,Valencia,12.0,4.0,21.2,0.0,0.0,1.0
+41,2024-05-26,20,La Liga,Matchweek 38,Sun,Away,,1.0,0.0,Celta Vigo,1.4,0.5,39.0,18027.0,,,,Head-to-Head,,2024,Valencia,11.0,4.0,17.2,0.0,0.0,0.0
+45,2024-05-11,19,La Liga,Matchweek 35,Sat,Home,,0.0,0.0,Sevilla,0.9,0.2,59.0,15310.0,,,,Head-to-Head,,2024,Villarreal,15.0,4.0,17.4,0.0,0.0,0.0
+46,2024-05-14,19,La Liga,Matchweek 36,Tue,Away,,1.0,1.0,Girona,1.8,1.2,57.0,33898.0,,,,Head-to-Head,,2024,Villarreal,18.0,4.0,14.7,1.0,0.0,0.0
+47,2024-05-19,20,La Liga,Matchweek 37,Sun,Home,,2.0,2.0,Real Madrid,1.2,1.1,66.0,18886.0,,,,Head-to-Head,,2024,Villarreal,20.0,10.0,16.8,0.0,0.0,0.0
+48,2024-05-26,19,La Liga,Matchweek 38,Sun,Away,,0.0,2.0,Osasuna,0.7,1.3,61.0,28366.0,,,,Head-to-Head,,2024,Villarreal,11.0,2.0,15.0,1.0,0.0,0.0
+38,2024-05-12,20,La Liga,Matchweek 35,Sun,Away,,0.0,0.0,Cádiz,0.3,1.9,53.0,11936.0,,,,Head-to-Head,,2024,Getafe,7.0,1.0,24.4,2.0,0.0,0.0
+39,2024-05-15,18,La Liga,Matchweek 36,Wed,Home,,1.0,1.0,Atlético Madrid,0.3,1.6,48.0,18653.0,,,,Head-to-Head,,2024,Getafe,5.0,2.0,17.6,1.0,0.0,0.0
+40,2024-05-19,17,La Liga,Matchweek 37,Sun,Away,,3.0,4.0,Alavés,2.1,4.6,42.0,44435.0,,,,Head-to-Head,,2024,Getafe,12.0,4.0,21.2,0.0,0.0,1.0
+41,2024-05-26,18,La Liga,Matchweek 38,Sun,Home,,1.0,0.0,Mallorca,1.4,0.5,39.0,18027.0,,,,Head-to-Head,,2024,Getafe,11.0,4.0,17.2,0.0,0.0,0.0
+39,2024-05-11,20,La Liga,Matchweek 35,Sat,Away,,1.0,1.0,Athletic Club,0.3,1.6,48.0,18653.0,,,,Head-to-Head,,2024,Osasuna,5.0,2.0,17.6,1.0,0.0,0.0
+40,2024-05-14,20,La Liga,Matchweek 36,Tue,Home,,3.0,4.0,Mallorca,2.1,4.6,42.0,44435.0,,,,Head-to-Head,,2024,Osasuna,12.0,4.0,21.2,0.0,0.0,1.0
+41,2024-05-19,18,La Liga,Matchweek 37,Sun,Away,,1.0,0.0,Atlético Madrid,1.4,0.5,39.0,18027.0,,,,Head-to-Head,,2024,Osasuna,11.0,4.0,17.2,0.0,0.0,0.0
+42,2024-05-26,19,La Liga,Matchweek 38,Sun,Home,,0.0,0.0,Villarreal,0.8,0.5,47.0,43375.0,,,,Head-to-Head,,2024,Osasuna,13.0,1.0,21.9,1.0,0.0,0.0
+38,2024-05-10,17,La Liga,Matchweek 35,Fri,Home,,0.0,0.0,Girona,0.3,1.9,53.0,11936.0,,,,Head-to-Head,,2024,Alaves,7.0,1.0,24.4,2.0,0.0,0.0
+39,2024-05-14,18,La Liga,Matchweek 36,Tue,Away,,1.0,1.0,Real Madrid,0.3,1.6,48.0,18653.0,,,,Head-to-Head,,2024,Alaves,5.0,2.0,17.6,1.0,0.0,0.0
+40,2024-05-19,17,La Liga,Matchweek 37,Sun,Home,,3.0,4.0,Getafe,2.1,4.6,42.0,44435.0,,,,Head-to-Head,,2024,Alaves,12.0,4.0,21.2,0.0,0.0,1.0
+41,2024-05-26,17,La Liga,Matchweek 38,Sun,Away,,1.0,0.0,Las Palmas,1.4,0.5,39.0,18027.0,,,,Head-to-Head,,2024,Alaves,11.0,4.0,17.2,0.0,0.0,0.0
+46,2024-05-11,18,La Liga,Matchweek 35,Sat,Away,,1.0,1.0,Villarreal,1.8,1.2,57.0,33898.0,,,,Head-to-Head,,2024,Sevilla,18.0,4.0,14.7,1.0,0.0,0.0
+47,2024-05-15,18,La Liga,Matchweek 36,Wed,Home,,2.0,2.0,Cádiz,1.2,1.1,66.0,18886.0,,,,Head-to-Head,,2024,Sevilla,20.0,10.0,16.8,0.0,0.0,0.0
+48,2024-05-19,18,La Liga,Matchweek 37,Sun,Away,,0.0,2.0,Athletic Club,0.7,1.3,61.0,28366.0,,,,Head-to-Head,,2024,Sevilla,11.0,2.0,15.0,1.0,0.0,0.0
+49,2024-05-26,19,La Liga,Matchweek 38,Sun,Home,,0.0,1.0,Barcelona,1.1,2.4,42.0,41116.0,,,,Head-to-Head,,2024,Sevilla,12.0,3.0,13.2,0.0,0.0,0.0
+37,2024-05-11,19,La Liga,Matchweek 35,Sat,Away,,2.0,3.0,Mallorca,1.6,3.4,35.0,34471.0,,,,Head-to-Head,,2024,Las Palmas,10.0,5.0,13.7,0.0,0.0,0.0
+38,2024-05-16,19,La Liga,Matchweek 36,Thu,Home,,0.0,0.0,Betis,0.3,1.9,53.0,11936.0,,,,Head-to-Head,,2024,Las Palmas,7.0,1.0,24.4,2.0,0.0,0.0
+39,2024-05-19,17,La Liga,Matchweek 37,Sun,Away,,1.0,1.0,Cádiz,0.3,1.6,48.0,18653.0,,,,Head-to-Head,,2024,Las Palmas,5.0,2.0,17.6,1.0,0.0,0.0
+40,2024-05-26,19,La Liga,Matchweek 38,Sun,Home,,3.0,4.0,Alavés,2.1,4.6,42.0,44435.0,,,,Head-to-Head,,2024,Las Palmas,12.0,4.0,21.2,0.0,0.0,1.0
+38,2024-05-12,18,La Liga,Matchweek 35,Sun,Away,,0.0,0.0,Valencia,0.3,1.9,53.0,11936.0,,,,Head-to-Head,,2024,Rayo Vallecano,7.0,1.0,24.4,2.0,0.0,0.0
+39,2024-05-15,18,La Liga,Matchweek 36,Wed,Home,,1.0,1.0,Granada,0.3,1.6,48.0,18653.0,,,,Head-to-Head,,2024,Rayo Vallecano,5.0,2.0,17.6,1.0,0.0,0.0
+40,2024-05-19,17,La Liga,Matchweek 37,Sun,Away,,3.0,4.0,Barcelona,2.1,4.6,42.0,44435.0,,,,Head-to-Head,,2024,Rayo Vallecano,12.0,4.0,21.2,0.0,0.0,1.0
+41,2024-05-26,17,La Liga,Matchweek 38,Sun,Home,,1.0,0.0,Athletic Club,1.4,0.5,39.0,18027.0,,,,Head-to-Head,,2024,Rayo Vallecano,11.0,4.0,17.2,0.0,0.0,0.0
+42,2024-05-11,18,La Liga,Matchweek 35,Sat,Home,,0.0,0.0,Las Palmas,0.8,0.5,47.0,43375.0,,,,Head-to-Head,,2024,Mallorca,13.0,1.0,21.9,1.0,0.0,0.0
+43,2024-05-14,17,La Liga,Matchweek 36,Tue,Away,,3.0,2.0,Osasuna,1.1,1.6,42.0,14192.0,,,,Head-to-Head,,2024,Mallorca,15.0,8.0,16.4,0.0,0.0,0.0
+44,2024-05-19,17,La Liga,Matchweek 37,Sun,Home,,0.0,0.0,Almería,1.9,0.3,47.0,11936.0,,,,Head-to-Head,,2024,Mallorca,20.0,2.0,15.5,0.0,0.0,0.0
+45,2024-05-26,18,La Liga,Matchweek 38,Sun,Away,,0.0,0.0,Getafe,0.9,0.2,59.0,15310.0,,,,Head-to-Head,,2024,Mallorca,15.0,4.0,17.4,0.0,0.0,0.0
+39,2024-05-12,19,La Liga,Matchweek 35,Sun,Away,,1.0,1.0,Atlético Madrid,0.3,1.6,48.0,18653.0,,,,Head-to-Head,,2024,Celta Vigo,5.0,2.0,17.6,1.0,0.0,0.0
+40,2024-05-15,20,La Liga,Matchweek 36,Wed,Home,,3.0,4.0,Athletic Club,2.1,4.6,42.0,44435.0,,,,Head-to-Head,,2024,Celta Vigo,12.0,4.0,21.2,0.0,0.0,1.0
+41,2024-05-19,18,La Liga,Matchweek 37,Sun,Away,,1.0,0.0,Granada,1.4,0.5,39.0,18027.0,,,,Head-to-Head,,2024,Celta Vigo,11.0,4.0,17.2,0.0,0.0,0.0
+42,2024-05-26,17,La Liga,Matchweek 38,Sun,Home,,0.0,0.0,Valencia,0.8,0.5,47.0,43375.0,,,,Head-to-Head,,2024,Celta Vigo,13.0,1.0,21.9,1.0,0.0,0.0
+36,2024-05-12,19,La Liga,Matchweek 35,Sun,Home,,0.0,0.0,Getafe,2.4,0.5,62.0,14253.0,,,,Head-to-Head,,2024,Cadiz,20.0,8.0,18.7,0.0,0.0,0.0
+37,2024-05-15,18,La Liga,Matchweek 36,Wed,Away,,2.0,3.0,Sevilla,1.6,3.4,35.0,34471.0,,,,Head-to-Head,,2024,Cadiz,10.0,5.0,13.7,0.0,0.0,0.0
+38,2024-05-19,19,La Liga,Matchweek 37,Sun,Home,,0.0,0.0,Las Palmas,0.3,1.9,53.0,11936.0,,,,Head-to-Head,,2024,Cadiz,7.0,1.0,24.4,2.0,0.0,0.0
+39,2024-05-26,19,La Liga,Matchweek 38,Sun,Away,,1.0,1.0,Almería,0.3,1.6,48.0,18653.0,,,,Head-to-Head,,2024,Cadiz,5.0,2.0,17.6,1.0,0.0,0.0
+35,2024-05-11,18,La Liga,Matchweek 35,Sat,Home,,0.0,2.0,Real Madrid,0.1,1.8,29.0,70685.0,,,,Head-to-Head,,2024,Granada,2.0,0.0,40.5,0.0,0.0,0.0
+36,2024-05-15,20,La Liga,Matchweek 36,Wed,Away,,0.0,0.0,Rayo Vallecano,2.4,0.5,62.0,14253.0,,,,Head-to-Head,,2024,Granada,20.0,8.0,18.7,0.0,0.0,0.0
+37,2024-05-19,19,La Liga,Matchweek 37,Sun,Home,,2.0,3.0,Celta Vigo,1.6,3.4,35.0,34471.0,,,,Head-to-Head,,2024,Granada,10.0,5.0,13.7,0.0,0.0,0.0
+38,2024-05-26,18,La Liga,Matchweek 38,Sun,Away,,0.0,0.0,Girona,0.3,1.9,53.0,11936.0,,,,Head-to-Head,,2024,Granada,7.0,1.0,24.4,2.0,0.0,0.0
+36,2024-05-12,19,La Liga,Matchweek 35,Sun,Away,,0.0,0.0,Betis,2.4,0.5,62.0,14253.0,,,,Head-to-Head,,2024,Almeria,20.0,8.0,18.7,0.0,0.0,0.0
+37,2024-05-16,19,La Liga,Matchweek 36,Thu,Home,,2.0,3.0,Barcelona,1.6,3.4,35.0,34471.0,,,,Head-to-Head,,2024,Almeria,10.0,5.0,13.7,0.0,0.0,0.0
+38,2024-05-19,18,La Liga,Matchweek 37,Sun,Away,,0.0,0.0,Mallorca,0.3,1.9,53.0,11936.0,,,,Head-to-Head,,2024,Almeria,7.0,1.0,24.4,2.0,0.0,0.0
+39,2024-05-26,20,La Liga,Matchweek 38,Sun,Home,,1.0,1.0,Cádiz,0.3,1.6,48.0,18653.0,,,,Head-to-Head,,2024,Almeria,5.0,2.0,17.6,1.0,0.0,0.0

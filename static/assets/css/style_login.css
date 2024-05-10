@@ -21,7 +21,7 @@
 	height: 170px;
 	width: 170px;
 	border-radius: 50%;
-	background-image:url(https://raw.githubusercontent.com/naaficodes/Monkey-Login/master/images/monkey.gif);
+	background-image:url("../img/monkey_pwd.gif");
 	background-size: 90% 85%;
 	background-repeat: no-repeat;
 	background-position: center;
