@@ -38,21 +38,25 @@ def data_process(matches):
     del matches["captain"]
     del matches["formation"]
     del matches["referee"]
+    
+    # Modifier la variable cible pour inclure les matches nuls
+    matches["new_target"] = 0  # Initialiser toutes les valeurs à 0
+    matches.loc[matches["result"] == "W", "new_target"] = 1  # Assigner 1 pour les victoires à domicile
+    matches.loc[matches["result"] == "D", "new_target"] = 0  # Assigner 0 pour les matches nuls
+    matches.loc[matches["result"] == "L", "new_target"] = 2  # Assigner 2 pour les victoires à l'extérieur
 
     matches["date"] = pd.to_datetime(matches["date"])
-    matches["target"] = (matches["result"] == "W").astype("int")
     matches["venue_code"] = matches["venue"].astype("category").cat.codes
     matches["opp_code"] = matches["opponent"].astype("category").cat.codes
     matches["time"] = matches["time"].astype(str)
     matches["hour"] = matches["time"].str.replace(":.+", "", regex=True).astype("int")
     matches["day_code"] = matches["date"].dt.dayofweek
 
-
     cols = ["gf", "ga", "sh", "sot", "dist", "fk", "pk", "pkatt"]
     new_cols = [f"{c}_rolling" for c in cols]
 
     matches_rolling = matches.groupby("team").apply(lambda x: rolling_averages(x, cols, new_cols))
-    matches_rolling = matches_rolling.droplevel('team') 
+    matches_rolling = matches_rolling.droplevel('team')
     
 
     return matches_rolling, new_cols
@@ -76,11 +80,10 @@ def make_predictions(matches,np_matches, new_cols, home_team, away_team):
     test_2 = new_np_matches
 
 
-    rf.fit(train[new_predictors], train["target"])
+    rf.fit(train[new_predictors], train["new_target"])
     preds = rf.predict(test[new_predictors])
     other_preds = rf.predict(test_2[new_predictors])
-    combined = pd.DataFrame(dict(actual=test["target"], predicted=preds), index=test.index)
-    error = precision_score(test["target"], preds)
+    combined = pd.DataFrame(dict(actual=test["new_target"], predicted=preds), index=test.index)
     return preds,other_preds
 
 def get_result(preds, other_pred, home_team, away_team, ligue_name, game_date, url):

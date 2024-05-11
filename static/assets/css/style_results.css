@@ -37,7 +37,6 @@
 
 .result-row {
     border-bottom: 2px solid #ccc; /* Ajout d'une bordure inférieure à chaque ligne */
-    background-color: #447d52;
 }
 
 .spacer-row {
@@ -80,4 +79,19 @@
 
 .url-input input[type="submit"]:hover {
     background-color: #3a6e43; /* Couleur du fond du bouton au survol */
+}
+
+
+.top-td {
+    border-top-left-radius: 15px; 
+    border-top-right-radius: 15px;
+}
+
+.bot-td {
+    border-bottom-left-radius: 15px; 
+    border-bottom-right-radius: 15px;
+}
+
+.middle-row{
+    background-color: #3a6e43;
 }

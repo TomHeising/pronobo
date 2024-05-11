@@ -50,14 +50,14 @@
                 <tbody>
                     {% for row in results %}
                     <tr class="result-row">
-                        <td colspan="2" class="date-league">{{ row[4] }} - {{ row[3] }}</td>
+                        <td colspan="2" class="top-td date-league">{{ row[4] }} - {{ row[3] }}</td>
                     </tr>
-                    <tr class="result-row">
+                    <tr class="middle-row result-row">
                         <td class="home-team">{{ row[0] }}</td>
                         <td class="away-team" style="text-align: right;">{{ row[1] }}</td>
                     </tr>
-                    <tr class="result-row">
-                        <td colspan="2" class="result-click">
+                    <tr class="result-row" class="bot-td">
+                        <td colspan="2" class="result-click bot-td">
                             <span>{{ row[2] }}</span>
                                |   
                             Link <a href="{{ row[5] }}" class="link" target="_blank" style="color: red">here</a>
