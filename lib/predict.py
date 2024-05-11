@@ -5,57 +5,12 @@ import matplotlib.pyplot as plt
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import precision_score
-from get_team_by_url import get_datas
+from lib.get_team_by_url import get_datas
 
-datas = get_datas()
-
-teams = datas[2]
-home_team = teams[0].replace("-", " ")
-away_team = teams[1].replace("-", " ")
-ligue_name = datas[0].replace(" ", "")
-game_date= datas[1]
+import sqlite3
 
 class MissingDict(dict):
     __missing__ = lambda self, key: key
-
-if ligue_name =="Ligue1":
-    map_values = {
-        "Paris S-G": "Paris Saint Germain",
-        "Brest": "Stade Brestois",
-        "Lille": "Lille OSC",
-        "Nice": "OGC Nice",
-        "Lens": "RC Lens",
-        "Marseille": "Olympique de Marseille",
-        "Lyon": "Olympique Lyonnais",
-        "Rennes": "Stade Rennais",
-        "Toulouse": "Toulouse FC",
-        "Reims": "Stade de Reims",
-        "Montpellier": "Montpellier Hérault",
-        "Nantes": "FC Nantes",
-        "Le Havre": "Le Havre AC",
-        "Lorient": "FC Lorient",
-
-    }
-
-if ligue_name == "LaLiga":
-
-    map_values = {
-
-        
-
-    }
-
-
-mapping = MissingDict(**map_values)
-
-matches = pd.read_csv("matches_" + ligue_name + ".csv") 
-np_matches = pd.read_csv("np_matches_" + ligue_name + ".csv")
-
-np_matches["team"]=np_matches["team"].map(mapping)
-np_matches["opponent"]=np_matches["opponent"].map(mapping)
-
-matches["team"]=matches["team"].map(mapping)
-matches["opponent"]=matches["opponent"].map(mapping)
 
 #np_matches  = np_matches_un[(np_matches_un['team'] == home_team) & (np_matches_un['opponent'] == away_team)]
 
@@ -116,13 +71,10 @@ def make_predictions(matches,np_matches, new_cols, home_team, away_team):
     np_matches  = np_matches[(np_matches['team'] == home_team) & (np_matches['opponent'] == away_team)]
     
 
-    print("afeagaag", new_np_matches)
-
     train = matches
     test = np_matches
     test_2 = new_np_matches
 
-    print("fqfqfq",np_matches)
 
     rf.fit(train[new_predictors], train["target"])
     preds = rf.predict(test[new_predictors])
@@ -131,32 +83,197 @@ def make_predictions(matches,np_matches, new_cols, home_team, away_team):
     error = precision_score(test["target"], preds)
     return preds,other_preds
 
-def get_result(preds, other_pred, home_team, away_team):
+def get_result(preds, other_pred, home_team, away_team, ligue_name, game_date, url):
 
     if preds:
 
-        print("PRONOBO PREDIT UNE VICTOIRE DE ", home_team, " !")
-        return
+        conn = sqlite3.connect('lib/data_results/results_db.db')
+        cur = conn.cursor()
+
+        data = (home_team, away_team, home_team, ligue_name, game_date, url)
+
+        try:
+
+            cur.execute("INSERT INTO results(home_team, away_team, win_team, ligue_name, date, url) VALUES(?, ?, ?, ?, ?, ?)", data)
+            conn.commit()
+
+            cur.close()
+            conn.close()
+            
+
+        except sqlite3.IntegrityError:
+
+            cur.close()
+            conn.close()
     
     elif other_pred: 
 
-        print("PRONOBO PREDIT UNE VICTOIRE DE ", away_team, " !")   
+        conn = sqlite3.connect('lib/data_results/results_db.db')
+        cur = conn.cursor()
+
+        data = (home_team, away_team, away_team, ligue_name, game_date, url)
+
+        try:
+
+            cur.execute("INSERT INTO results(home_team, away_team, win_team, ligue_name, date, url) VALUES(?, ?, ?, ?, ?, ?)", data)
+            conn.commit()
+
+            cur.close()
+            conn.close()
+            
+
+        except sqlite3.IntegrityError:
+
+            cur.close()
+            conn.close() 
 
     elif (not preds) & (not other_pred): 
     
-        print("PRONOBO PREDIT UN MATCH NUL !")
+        conn = sqlite3.connect('lib/data_results/results_db.db')
+        cur = conn.cursor()
 
-matches, new_cols = data_process(matches)
+        data = (home_team, away_team, "DRAW", ligue_name, game_date, url)
 
-np_matches = data_process(np_matches)[0]
-print(np_matches["team"])
-print(home_team, away_team)
+        try:
 
-preds, other_preds  = make_predictions(matches, np_matches, new_cols,home_team,away_team)
+            cur.execute("INSERT INTO results(home_team, away_team, win_team, ligue_name, date, url) VALUES(?, ?, ?, ?, ?, ?)", data)
+            conn.commit()
 
-get_result(preds, other_preds, home_team, away_team)
+            cur.close()
+            conn.close()
+            
+
+        except sqlite3.IntegrityError:
+
+            cur.close()
+            conn.close()
 
 
+def predict(url):
+
+    datas = get_datas(url)
+
+    teams = datas[2]
+    home_team = teams[0].replace("-", " ")
+    away_team = teams[1].replace("-", " ")
+    ligue_name = datas[0].replace(" ", "")
+    game_date= datas[1]
+
+
+    if ligue_name =="Ligue1":
+        map_values = {
+            "Paris S-G": "Paris Saint Germain",
+            "Brest": "Stade Brestois",
+            "Lille": "Lille OSC",
+            "Nice": "OGC Nice",
+            "Lens": "RC Lens",
+            "Marseille": "Olympique de Marseille",
+            "Lyon": "Olympique Lyonnais",
+            "Rennes": "Stade Rennais",
+            "Toulouse": "Toulouse FC",
+            "Reims": "Stade de Reims",
+            "Montpellier": "Montpellier Hérault",
+            "Nantes": "FC Nantes",
+            "Le Havre": "Le Havre AC",
+            "Lorient": "FC Lorient",
+
+        }
+
+    if ligue_name == "LaLiga":
+
+        map_values = {
+
+            "Girona" : "Girona FC",
+            "Barcelona" : "FC Barcelone",
+            "Betis" : "Betis Séville",
+            "Valencia" : "Valence",
+            "Getafe" : "Getafe CF",
+            "Alavés" : "Deportivo Alavés",
+            "Sevilla" : "FC Séville",
+            "Osasuna" :  "CA Osasuna",
+            "Las Palmas" : "UD Las Palmas",
+            "Mallorca" : "Majorque",
+            "Cadiz" : "Cadix",
+            "Granada" : "Granada CF",
+            "Almería" :"UD Almería"
+
+        }
+
+    if ligue_name == "PremierLeague":
+
+        map_values = {
+
+
+            "Newcastle Utd" : "Newcastle",
+            "Newcastle United": "Newcastle",
+            "Manchester Utd" : "Manchester United",
+            "Brighton" : "Brighton & Hove Albion",
+            "Brighton and Hove Albion" : "Brighton & Hove Albion",
+            "Wolverhampton Wanderers" : "Wolverhampton",
+            "Wolves" : "Wolverhampton",
+            "Nott'ham Forest" : "Nottingham Forest",
+            "Sheffield Utd" : "Sheffield United",
+            "West Ham United" : "West Ham",
+            "Tottenham Hotspur"  :"Tottenham"
+
+        }
+
+    if ligue_name == "SerieA":
+
+        map_values = {
+
+            "Inter" : "Inter Milan",
+            "Milan" : "AC Milan",
+            "Juventus" : "Juventus Turin",
+            "Bologna" : "Bologne",
+            "Roma" : "AS Roma",
+            "Lazio" : "Lazio Rome",
+            "Napoli" : "Naples",
+            "Internazionale" : "Inter Milan"
+
+        }
+
+    if ligue_name == "Bundesliga":
+
+        map_values = {
+
+            "Bayer Leverkusen" : "BAYER 04 LEVERKUSEN",
+            "Leverkusen" : "BAYER 04 LEVERKUSEN",
+            "Eint Frankfurt" : "Eintracht Francfort",
+            "Freiburg" : "Fribourg",
+            "Hoffenheim" : "TSG 1899 Hoffenheim",
+            "Augsburg" : "FC Augsburg",
+            "Heidenheim" : "FC Heidenheim",
+            "Werder Bremen" : "Werder Brême",
+            "Monchengladbach" : "Mönchengladbach",
+            "M'Gladbach" : "Mönchengladbach",
+            "Union Berlin" : "FC Union Berlin",
+            "Mainz" : "Mayence",
+            "Köln" : "Cologne",
+            "Darmstadt" : "SV Darmstadt 98",
+            "Mainz 05" : "Mayence"
+
+        }
+
+    mapping = MissingDict(**map_values)
+
+    matches = pd.read_csv("lib/matches_" + ligue_name + ".csv") 
+    np_matches = pd.read_csv("lib/np_matches_" + ligue_name + ".csv")
+
+    np_matches["team"]=np_matches["team"].map(mapping)
+    np_matches["opponent"]=np_matches["opponent"].map(mapping)
+
+    matches["team"]=matches["team"].map(mapping)
+    matches["opponent"]=matches["opponent"].map(mapping)
+
+
+    matches, new_cols = data_process(matches)
+
+    np_matches = data_process(np_matches)[0]
+
+    preds, other_preds  = make_predictions(matches, np_matches, new_cols,home_team,away_team)
+
+    get_result(preds, other_preds, home_team, away_team, ligue_name, game_date, url)
 
 
 '''

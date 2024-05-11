@@ -5,19 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pronobo</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/style.css') }}">
+
 </head>
 <body>
     <header>
         <div class="header-left">
             <h1><a href="/" class="link">Pronobo</a><img src="{{ url_for('static', filename='assets/img/monkeybg.png') }}"></h1>
         </div>
-        <div class="header-center">
-            <a href="/" class="link">Home</a>
-            <a href="results" class="link">Results</a>
-            <a href="help" class="link">Help</a>
+        <div class="header-center" id="header-center">
+
+            <a href="/" class="link1 link">Home</a>
+            <a href="results" class="link1 link">Results</a>
+            <a href="help" class="link1 link">Help</a>
             {% if session["username"] and session["username"] == "admin" %}
-                <a href="admin" class="link">Admin Panel</a>
+                <a href="admin" class="link1 link">Admin Panel</a>
             {% endif %}
+
         </div>
         <div class="header-right">
             {% if not session["username"] %}
@@ -30,6 +33,7 @@
             {% endif %}
         </div>
     </header>
+
 
     <main>
         <section id="welcome">

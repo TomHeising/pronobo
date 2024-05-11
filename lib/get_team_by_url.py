@@ -3,14 +3,6 @@ from bs4 import BeautifulSoup
 import re
 from datetime import datetime
 
-def get_url():
-    # url = input("Please enter a URL: ")
-    # url = "https://www.eurosport.fr/football/ligue-1/2023-2024/paris-saint-germain-toulouse-fc_mtc1447484/live.shtml"
-    # url = "https://www.eurosport.fr/football/ligue-1/2023-2024/live-ogc-nice-le-havre-ac_mtc1447480/live.shtml"
-    # url = "https://www.eurosport.fr/football/ligue-1/2023-2024/nantes-lille-osc_mtc1447485/live.shtml"
-    url = "https://www.eurosport.fr/football/ligue-1/2023-2024/live-stade-brestois-stade-de-reims_mtc1447478/live.shtml"
-    return url
-
 def scrape_url_for_date(url):
     headers = {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,/;q=0.8",
@@ -82,9 +74,8 @@ def get_ligue(url):
 
     return ligue_name
 
-def get_datas():
+def get_datas(url):
 
-    url = get_url()
     date = scrape_url_for_date(url)
     real_date = covert_string_into_date(date)
     team_names = get_team_names(url)

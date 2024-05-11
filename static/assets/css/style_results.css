@@ -1,0 +1,83 @@
+.results-table {
+    width: 60%;
+    border-collapse: collapse;
+}
+
+.date-league {
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.home-team, .away-team {
+    padding: 10px;
+}
+
+.result-click {
+    background-color: #f9f9f9;
+    padding: 10px;
+    text-align: center;
+}
+
+.result-win {
+    color: green;
+    font-weight: bold;
+}
+
+.result-loss {
+    color: red;
+    font-weight: bold;
+}
+
+.result-draw {
+    color: #333;
+    font-weight: bold;
+}
+
+.result-row {
+    border-bottom: 2px solid #ccc; /* Ajout d'une bordure inférieure à chaque ligne */
+    background-color: #447d52;
+}
+
+.spacer-row {
+    height: 20px; /* Ajout d'un espace entre chaque ligne */
+}
+
+
+.url-input {
+    margin: 50px auto; /* Centrer verticalement et horizontalement */
+    text-align: center;
+}
+
+.url-input label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+    color: #fff; /* Couleur du texte */
+}
+
+.url-input input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    margin-right: 10px; /* Espacement à droite */
+    outline: none;
+}
+
+.url-input input[type="submit"] {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #447d52; /* Couleur du fond du bouton */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px; /* Espacement vers le bas */
+}
+
+.url-input input[type="submit"]:hover {
+    background-color: #3a6e43; /* Couleur du fond du bouton au survol */
+}

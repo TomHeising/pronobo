@@ -87,15 +87,17 @@ header {
     font-size: 17px;
 }
 
+
 main {
-    flex-grow: 1; /* permet au contenu de s'étendre pour remplir l'espace restant */
+    flex-grow: 1;
     padding: 20px;
     display: flex;
-	align-items: center;
-	justify-content: center;
-    
+    flex-direction: column; /* Affichage en colonnes */
+    align-items: center; /* Centrage horizontal */
+    justify-content: center; /* Centrage vertical */
 }
 
+    
 #welcome {
     text-align: center;
     color: black;
@@ -124,3 +126,9 @@ footer {
     text-decoration: none;
     color: white
 }
+
+
+
+
+
+

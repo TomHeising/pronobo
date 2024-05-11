@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pronobo</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/style_results.css') }}">
 </head>
 <body>
     <header>
@@ -37,16 +38,39 @@
                 <h2>Please log in to see the results.</h2>
             </section>
         </main>
-
     {% else %}
         <main>
-            <section id="welcome">
-                <h2>Here is the results.</h2>
-            </section>
+            <div class="url-input">
+                <form action="/submit_url" method="post">
+                    <input type="text" id="url" name="url" placeholder="Eurosport's URL..." required>
+                    <input type="submit" value="Submit" class="submit-btn">
+                </form>
+            </div>
+            <table class="results-table">
+                <tbody>
+                    {% for row in results %}
+                    <tr class="result-row">
+                        <td colspan="2" class="date-league">{{ row[4] }} - {{ row[3] }}</td>
+                    </tr>
+                    <tr class="result-row">
+                        <td class="home-team">{{ row[0] }}</td>
+                        <td class="away-team" style="text-align: right;">{{ row[1] }}</td>
+                    </tr>
+                    <tr class="result-row">
+                        <td colspan="2" class="result-click">
+                            <span>{{ row[2] }}</span>
+                               |   
+                            Link <a href="{{ row[5] }}" class="link" target="_blank" style="color: red">here</a>
+                        </td>
+                    </tr>
+                    <tr class="spacer-row">
+                        <td colspan="2"></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
         </main>
-
     {% endif %}
-
 
     <footer>
         <p>&copy; 2024 Pronobo. All rights reserved.</p>

@@ -2,6 +2,10 @@ from flask import Flask
 from flask import render_template, url_for, request, flash, redirect, session
 
 import sqlite3
+from datetime import datetime
+
+from lib.predict import predict
+import lib.scraping
 
 app = Flask("app")
 app.secret_key = "pronobobo"
@@ -10,14 +14,69 @@ app.secret_key = "pronobobo"
 @app.route('/')
 def index():
 
-
-
     return render_template('index.html')
+
+@app.route("/update_data", methods=["POST"])
+def update_data():
+
+    try :
+
+        if session["username"] == "admin" :
+
+            lib.scraping.update_data()
+            return redirect("/admin")
+
+    except KeyError :
+
+        return redirect("/")
+
+
+@app.route("/submit_url", methods=["POST"])
+def submit_url():
+
+    urlvar = request.form["url"]
+
+    # Vérifier si l'URL est déjà dans la base de données
+    conn = sqlite3.connect('lib/data_results/results_db.db')
+    cur = conn.cursor()
+    cur.execute("SELECT COUNT(*) FROM results WHERE url = ?", (urlvar,))
+    url_count = cur.fetchone()[0]
+    conn.close()
+
+    # Si l'URL est déjà présente, affichez un message d'erreur et redirigez l'utilisateur vers la page de résultats
+    if url_count > 0:
+        return redirect(url_for("results"))
+
+    # Si l'URL n'est pas déjà présente, appelez la fonction predict
+    predict(urlvar)
+
+    return redirect(url_for("results"))
+
 
 @app.route("/results")
 def results():
 
-    return render_template('results.html')
+    conn = sqlite3.connect('lib/data_results/results_db.db')
+    cur = conn.cursor()
+
+    # Extrait toutes les lignes de la table "results"
+    cur.execute("SELECT home_team, away_team, win_team, ligue_name, date, url FROM results")
+    results = cur.fetchall()
+
+    # Formater la date
+    formatted_results = []
+    for row in results:
+        date_obj = datetime.strptime(row[4], "%Y-%m-%d")
+        formatted_date = date_obj.strftime("%d %B %Y")
+        formatted_results.append((row[0], row[1], row[2], row[3], formatted_date, row[5]))
+
+    headers = ["Home Team", "Away Team", "Winner", "League", "Date", "Link"]
+
+    cur.close()
+    conn.close()
+
+    return render_template('results.html', headers=headers, results=formatted_results)
+
 
 @app.route("/help")
 def help():

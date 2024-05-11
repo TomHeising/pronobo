@@ -94,6 +94,7 @@
 32,2024-04-21,17:05,Ligue 1,Matchweek 30,Sun,Home,L,0.0,2.0,Monaco,0.6,0.9,56.0,14856.0,Brendan Chardonnet,4-2-3-1,Ruddy Buquet,Match Report,,12.0,2.0,18.2,0.0,0,0,2024,Brest
 33,2024-04-28,17:05,Ligue 1,Matchweek 31,Sun,Away,W,5.0,4.0,Rennes,2.0,2.6,53.0,28527.0,Brendan Chardonnet,4-2-3-1,Benoît Bastien,Match Report,,10.0,5.0,10.2,0.0,0,0,2024,Brest
 34,2024-05-04,21:00,Ligue 1,Matchweek 32,Sat,Home,D,0.0,0.0,Nantes,0.5,1.6,71.0,15159.0,Brendan Chardonnet,4-2-3-1,Clément Turpin,Match Report,,9.0,2.0,19.2,0.0,0,0,2024,Brest
+35,2024-05-10,21:00,Ligue 1,Matchweek 33,Fri,Home,D,1.0,1.0,Reims,1.1,0.5,62.0,,Brendan Chardonnet,4-2-3-1,Jérôme Brisard,Match Report,,16.0,5.0,16.1,0.0,0,0,2024,Brest
 0,2023-08-11,21:00,Ligue 1,Matchweek 1,Fri,Away,D,1,1,Nice,1.3,1.2,60.0,29436.0,Benjamin André,4-2-3-1,Benoît Bastien,Match Report,,12.0,5.0,16.9,0.0,0,0,2024,Lille
 1,2023-08-20,13:00,Ligue 1,Matchweek 2,Sun,Home,W,2,0,Nantes,2.2,1.1,64.0,34356.0,Benjamin André,4-2-3-1,Pierre Gaillouste,Match Report,,18.0,7.0,15.2,2.0,0,0,2024,Lille
 3,2023-08-27,17:05,Ligue 1,Matchweek 3,Sun,Away,L,1,4,Lorient,1.1,1.6,64.0,15101.0,Benjamin André,4-2-3-1,Willy Delajod,Match Report,,18.0,7.0,20.2,2.0,0,0,2024,Lille
@@ -125,7 +126,7 @@
 43,2024-04-21,15:00,Ligue 1,Matchweek 30,Sun,Home,W,1,0,Strasbourg,0.8,1.3,53.0,40381.0,Benjamin André,4-2-3-1,Benoît Millot,Match Report,,6.0,2.0,15.1,0.0,0,0,2024,Lille
 44,2024-04-24,21:00,Ligue 1,Matchweek 29,Wed,Away,L,0,1,Monaco,1.3,1.6,57.0,9000.0,Benjamin André,4-3-3,Clément Turpin,Match Report,,13.0,4.0,17.4,0.0,0,0,2024,Lille
 45,2024-04-28,13:00,Ligue 1,Matchweek 31,Sun,Away,W,2,1,Metz,0.8,1.1,70.0,24728.0,Rémy Cabella,4-2-3-1,Stéphanie Frappart,Match Report,,14.0,4.0,19.5,0.0,0,0,2024,Lille
-46,2024-05-06,21:00,Ligue 1,Matchweek 32,Mon,Home,L,3,4,Lyon,0.3,0.0,66.0,45227.0,Jonathan David,4-2-3-1,Benoît Bastien,Match Report,,6.0,4.0,15.6,0.0,0,0,2024,Lille
+46,2024-05-06,21:00,Ligue 1,Matchweek 32,Mon,Home,L,3,4,Lyon,0.9,2.4,44.0,45227.0,Jonathan David,4-2-3-1,Benoît Bastien,Match Report,,8.0,5.0,15.8,0.0,0,0,2024,Lille
 0,2023-08-11,21:00,Ligue 1,Matchweek 1,Fri,Home,D,1,1,Lille,1.2,1.3,40.0,29436.0,Dante,4-3-3,Benoît Bastien,Match Report,,8.0,3.0,17.5,1.0,0,0,2024,Nice
 1,2023-08-20,15:00,Ligue 1,Matchweek 2,Sun,Away,D,1,1,Lorient,1.7,0.8,59.0,15848.0,Dante,4-3-3,Hakim Ben El Hadj Salem,Match Report,,21.0,8.0,17.9,1.0,0,0,2024,Nice
 2,2023-08-27,20:45,Ligue 1,Matchweek 3,Sun,Home,D,0,0,Lyon,1.9,0.2,58.0,28033.0,Dante,4-3-3,Bastien Dechepy,Match Report,,21.0,4.0,20.0,1.0,0,0,2024,Nice
@@ -157,6 +158,7 @@
 32,2024-04-19,21:00,Ligue 1,Matchweek 30,Fri,Home,W,3,0,Lorient,2.5,0.5,52.0,21067.0,Dante,4-3-3,Jeremy Stinat,Match Report,,19.0,10.0,17.0,0.0,0,0,2024,Nice
 33,2024-04-24,21:00,Ligue 1,Matchweek 29,Wed,Away,D,2,2,Marseille,1.4,2.2,52.0,53000.0,Dante,4-3-3,Jérémie Pignard,Match Report,,10.0,4.0,17.6,1.0,0,0,2024,Nice
 34,2024-04-28,15:00,Ligue 1,Matchweek 31,Sun,Away,W,3,1,Strasbourg,1.6,0.6,52.0,25181.0,Dante,4-3-3,Thomas Léonard,Match Report,,7.0,3.0,17.1,0.0,1,1,2024,Nice
+35,2024-05-10,21:00,Ligue 1,Matchweek 33,Fri,Home,W,1,0,Le Havre,1.5,0.4,58.0,,Dante,4-3-3,Benoît Bastien,Match Report,,13.0,6.0,17.8,0.0,0,0,2024,Nice
 0,2023-08-13,13:00,Ligue 1,Matchweek 1,Sun,Away,L,2,3,Brest,0.7,2.5,52.0,15085.0,Brice Samba,3-4-3,Jérémie Pignard,Match Report,,8.0,2.0,16.2,0.0,0,0,2024,Lens
 1,2023-08-20,20:45,Ligue 1,Matchweek 2,Sun,Home,D,1,1,Rennes,1.0,1.4,50.0,37233.0,Brice Samba,3-4-3,Benoît Millot,Match Report,,15.0,4.0,17.7,2.0,0,0,2024,Lens
 2,2023-08-26,21:00,Ligue 1,Matchweek 3,Sat,Away,L,1,3,Paris S-G,0.5,1.5,34.0,47864.0,Brice Samba,3-4-3,François Letexier,Match Report,,12.0,4.0,19.2,1.0,0,0,2024,Lens
@@ -189,37 +191,6 @@
 38,2024-04-20,21:00,Ligue 1,Matchweek 30,Sat,Home,W,1,0,Clermont Foot,1.9,0.7,47.0,37495.0,Brice Samba,3-4-3,Benoît Bastien,Match Report,,16.0,3.0,20.6,1.0,1,1,2024,Lens
 39,2024-04-28,21:00,Ligue 1,Matchweek 31,Sun,Away,L,1,2,Marseille,1.2,1.7,56.0,59490.0,Brice Samba,3-4-3,Eric Wattellier,Match Report,,18.0,5.0,18.7,0.0,0,0,2024,Lens
 40,2024-05-03,21:00,Ligue 1,Matchweek 32,Fri,Home,W,2,0,Lorient,2.1,0.6,57.0,37561.0,Brice Samba,3-4-3,Jérémie Pignard,Match Report,,19.0,6.0,16.5,0.0,0,0,2024,Lens
-1,2023-08-12,17:00,Ligue 1,Matchweek 1,Sat,Home,W,2,1,Reims,1.0,0.8,42.0,63787.0,Valentin Rongier,4-4-2,Eric Wattellier,Match Report,,14.0,4.0,15.8,1.0,0,0,2024,Marseille
-3,2023-08-18,21:00,Ligue 1,Matchweek 2,Fri,Away,D,2,2,Metz,1.9,0.5,57.0,26661.0,Valentin Rongier,4-4-2,Jérôme Brisard,Match Report,,22.0,5.0,16.0,1.0,0,0,2024,Marseille
-4,2023-08-26,19:00,Ligue 1,Matchweek 3,Sat,Home,W,2,0,Brest,2.9,1.5,44.0,63592.0,Valentin Rongier,4-4-2,Jeremy Stinat,Match Report,,15.0,6.0,12.9,0.0,0,0,2024,Marseille
-5,2023-09-01,21:00,Ligue 1,Matchweek 4,Fri,Away,D,1,1,Nantes,2.6,0.9,63.0,34600.0,Valentin Rongier,4-4-2,Ruddy Buquet,Match Report,,26.0,9.0,17.7,1.0,0,0,2024,Marseille
-6,2023-09-17,17:05,Ligue 1,Matchweek 5,Sun,Home,D,0,0,Toulouse,1.5,0.7,61.0,63477.0,Valentin Rongier,4-4-2,François Letexier,Match Report,,24.0,6.0,18.7,3.0,0,0,2024,Marseille
-8,2023-09-24,20:45,Ligue 1,Matchweek 6,Sun,Away,L,0,4,Paris S-G,0.7,1.9,24.0,47000.0,Valentin Rongier,3-5-2,Willy Delajod,Match Report,,6.0,0.0,18.3,0.0,0,0,2024,Marseille
-9,2023-09-30,21:00,Ligue 1,Matchweek 7,Sat,Away,L,2,3,Monaco,1.0,1.0,54.0,10200.0,Valentin Rongier,4-3-3,Benoît Bastien,Match Report,,8.0,4.0,17.7,0.0,0,0,2024,Marseille
-11,2023-10-08,13:00,Ligue 1,Matchweek 8,Sun,Home,W,3,0,Le Havre,2.8,0.2,64.0,63576.0,Valentin Rongier,4-3-3,Thomas Léonard,Match Report,,14.0,6.0,15.6,0.0,0,0,2024,Marseille
-12,2023-10-21,21:00,Ligue 1,Matchweek 9,Sat,Away,L,0,1,Nice,1.1,0.6,50.0,31423.0,Valentin Rongier,4-2-3-1,Ruddy Buquet,Match Report,,9.0,1.0,17.7,0.0,0,0,2024,Marseille
-14,2023-11-04,21:00,Ligue 1,Matchweek 11,Sat,Home,D,0,0,Lille,0.8,0.3,46.0,63674.0,Valentin Rongier,4-3-3,Stéphanie Frappart,Match Report,,8.0,3.0,19.3,1.0,0,0,2024,Marseille
-16,2023-11-12,20:45,Ligue 1,Matchweek 12,Sun,Away,L,0,1,Lens,1.0,1.1,53.0,38223.0,Samuel Gigot,4-2-3-1,Benoît Bastien,Match Report,,8.0,2.0,15.6,0.0,0,0,2024,Marseille
-17,2023-11-25,21:00,Ligue 1,Matchweek 13,Sat,Away,D,1,1,Strasbourg,1.4,1.1,60.0,25443.0,Geoffrey Kondogbia,4-2-3-1,Jérôme Brisard,Match Report,,16.0,3.0,14.8,0.0,0,0,2024,Marseille
-19,2023-12-03,20:45,Ligue 1,Matchweek 14,Sun,Home,W,2,0,Rennes,0.9,0.6,43.0,54162.0,Samuel Gigot,4-2-3-1,Willy Delajod,Match Report,,4.0,1.0,24.8,0.0,1,1,2024,Marseille
-20,2023-12-06,21:00,Ligue 1,Matchweek 10,Wed,Home,W,3,0,Lyon,2.2,0.2,49.0,54238.0,Samuel Gigot,3-5-2,François Letexier,Match Report,,12.0,5.0,15.8,1.0,0,0,2024,Marseille
-21,2023-12-10,20:45,Ligue 1,Matchweek 15,Sun,Away,W,4,2,Lorient,2.3,2.2,50.0,15848.0,Samuel Gigot,3-5-2,Eric Wattellier,Match Report,,18.0,8.0,14.0,0.0,0,0,2024,Marseille
-23,2023-12-17,17:05,Ligue 1,Matchweek 16,Sun,Home,W,2,1,Clermont Foot,2.4,0.2,55.0,63753.0,Samuel Gigot,3-5-2,Gaël Angoula,Match Report,,15.0,6.0,14.1,1.0,0,0,2024,Marseille
-24,2023-12-20,21:00,Ligue 1,Matchweek 17,Wed,Away,D,1,1,Montpellier,1.3,0.9,68.0,18565.0,Samuel Gigot,5-3-2,Thomas Léonard,Match Report,,17.0,4.0,15.3,1.0,0,0,2024,Marseille
-26,2024-01-12,21:00,Ligue 1,Matchweek 18,Fri,Home,D,1,1,Strasbourg,1.4,1.2,47.0,53616.0,Samuel Gigot,3-5-2,Marc Bollengier,Match Report,,8.0,1.0,15.5,1.0,0,0,2024,Marseille
-28,2024-01-27,21:00,Ligue 1,Matchweek 19,Sat,Home,D,2,2,Monaco,2.4,0.5,68.0,63029.0,Geoffrey Kondogbia,4-3-3,Willy Delajod,Match Report,,22.0,9.0,15.9,0.0,0,0,2024,Marseille
-29,2024-02-04,20:45,Ligue 1,Matchweek 20,Sun,Away,L,0,1,Lyon,0.3,1.4,63.0,46380.0,Samuel Gigot,4-3-3,Benoît Bastien,Match Report,,8.0,0.0,24.8,0.0,0,0,2024,Marseille
-30,2024-02-09,21:00,Ligue 1,Matchweek 21,Fri,Home,D,1,1,Metz,1.8,0.8,66.0,62686.0,Samuel Gigot,4-3-3,Hakim Ben El Hadj Salem,Match Report,,18.0,6.0,18.1,1.0,0,0,2024,Marseille
-32,2024-02-18,20:45,Ligue 1,Matchweek 22,Sun,Away,L,0,1,Brest,0.6,1.7,58.0,13800.0,Chancel Mbemba,4-3-3,Ruddy Buquet,Match Report,,9.0,2.0,18.3,1.0,0,0,2024,Marseille
-34,2024-02-25,20:45,Ligue 1,Matchweek 23,Sun,Home,W,4,1,Montpellier,2.7,0.6,58.0,61263.0,Samuel Gigot,4-3-3,Jérémie Pignard,Match Report,,15.0,5.0,17.7,0.0,1,1,2024,Marseille
-35,2024-03-02,21:00,Ligue 1,Matchweek 24,Sat,Away,W,5,1,Clermont Foot,2.4,0.7,56.0,10583.0,Chancel Mbemba,4-3-3,Thomas Léonard,Match Report,,17.0,11.0,14.8,0.0,0,0,2024,Marseille
-37,2024-03-10,20:45,Ligue 1,Matchweek 25,Sun,Home,W,2,0,Nantes,1.5,1.0,53.0,56958.0,Chancel Mbemba,4-3-3,François Letexier,Match Report,,12.0,4.0,17.3,1.0,0,0,2024,Marseille
-39,2024-03-17,17:05,Ligue 1,Matchweek 26,Sun,Away,L,0,2,Rennes,0.7,1.4,57.0,28610.0,Geoffrey Kondogbia,4-2-3-1,Eric Wattellier,Match Report,,8.0,1.0,17.0,1.0,0,0,2024,Marseille
-40,2024-03-31,20:45,Ligue 1,Matchweek 27,Sun,Home,L,0,2,Paris S-G,1.4,2.1,47.0,66046.0,Geoffrey Kondogbia,4-3-3,Benoît Bastien,Match Report,,22.0,10.0,19.4,0.0,0,0,2024,Marseille
-41,2024-04-05,21:00,Ligue 1,Matchweek 28,Fri,Away,L,1,3,Lille,1.2,1.8,47.0,46864.0,Samuel Gigot,4-3-3,Bastien Dechepy,Match Report,,14.0,5.0,21.1,2.0,0,0,2024,Marseille
-44,2024-04-21,19:00,Ligue 1,Matchweek 30,Sun,Away,D,2,2,Toulouse,1.1,0.5,54.0,30119.0,Pau López,5-3-2,Clément Turpin,Match Report,,11.0,3.0,18.2,1.0,0,0,2024,Marseille
-45,2024-04-24,21:00,Ligue 1,Matchweek 29,Wed,Home,D,2,2,Nice,2.2,1.4,48.0,53000.0,Samuel Gigot,3-5-2,Jérémie Pignard,Match Report,,10.0,3.0,19.8,0.0,1,1,2024,Marseille
-46,2024-04-28,21:00,Ligue 1,Matchweek 31,Sun,Home,W,2,1,Lens,1.7,1.2,44.0,59490.0,Samuel Gigot,3-5-2,Eric Wattellier,Match Report,,13.0,6.0,16.4,1.0,0,0,2024,Marseille
 0,2023-08-13,20:45,Ligue 1,Matchweek 1,Sun,Away,L,1,2,Strasbourg,1.7,1.3,64.0,25410.0,Alexandre Lacazette,4-2-3-1,Jérôme Brisard,Match Report,,23.0,7.0,17.3,1.0,0,0,2024,Lyon
 1,2023-08-19,19:00,Ligue 1,Matchweek 2,Sat,Home,L,1,4,Montpellier,0.4,2.9,63.0,42576.0,Alexandre Lacazette,4-2-3-1,Mathieu Vernice,Match Report,,7.0,3.0,20.0,1.0,0,0,2024,Lyon
 2,2023-08-27,20:45,Ligue 1,Matchweek 3,Sun,Away,D,0,0,Nice,0.2,1.9,42.0,28033.0,Corentin Tolisso,4-2-3-1,Bastien Dechepy,Match Report,,6.0,1.0,23.5,0.0,0,0,2024,Lyon
@@ -251,7 +222,7 @@
 33,2024-04-14,20:45,Ligue 1,Matchweek 29,Sun,Home,W,4,3,Brest,2.1,1.7,53.0,53898.0,Alexandre Lacazette,4-3-3,Mathieu Vernice,Match Report,,15.0,7.0,16.3,0.0,1,1,2024,Lyon
 34,2024-04-21,21:00,Ligue 1,Matchweek 30,Sun,Away,L,1,4,Paris S-G,1.0,2.3,37.0,45000.0,Alexandre Lacazette,4-2-3-1,François Letexier,Match Report,,16.0,6.0,19.0,0.0,0,0,2024,Lyon
 35,2024-04-28,19:00,Ligue 1,Matchweek 31,Sun,Home,W,3,2,Monaco,2.2,1.7,47.0,55539.0,Alexandre Lacazette,4-3-3,Bastien Dechepy,Match Report,,15.0,4.0,12.6,0.0,0,0,2024,Lyon
-36,2024-05-06,21:00,Ligue 1,Matchweek 32,Mon,Away,W,4,3,Lille,0.0,0.3,34.0,45227.0,Alexandre Lacazette,4-3-3,Benoît Bastien,Match Report,,6.0,4.0,,0.0,0,0,2024,Lyon
+36,2024-05-06,21:00,Ligue 1,Matchweek 32,Mon,Away,W,4,3,Lille,2.4,0.9,56.0,45227.0,Alexandre Lacazette,4-3-3,Benoît Bastien,Match Report,,11.0,7.0,12.1,0.0,0,0,2024,Lyon
 0,2023-08-13,17:05,Ligue 1,Matchweek 1,Sun,Home,W,5,1,Metz,4.0,0.4,70.0,26065.0,Benjamin Bourigeaud,4-3-3,Jeremy Stinat,Match Report,,29.0,14.0,15.1,1.0,0,0,2024,Rennes
 1,2023-08-20,20:45,Ligue 1,Matchweek 2,Sun,Away,D,1,1,Lens,1.4,1.0,50.0,37233.0,Benjamin Bourigeaud,4-3-3,Benoît Millot,Match Report,,9.0,4.0,20.3,0.0,1,1,2024,Rennes
 2,2023-08-27,13:00,Ligue 1,Matchweek 3,Sun,Home,D,2,2,Le Havre,3.2,0.4,61.0,28311.0,Benjamin Bourigeaud,4-1-4-1,Eric Wattellier,Match Report,,22.0,7.0,16.1,0.0,0,0,2024,Rennes
@@ -284,69 +255,37 @@
 42,2024-04-20,17:00,Ligue 1,Matchweek 30,Sat,Away,W,3,0,Nantes,2.4,0.2,55.0,25433.0,Steve Mandanda,4-2-3-1,Willy Delajod,Match Report,,13.0,4.0,18.2,0.0,1,1,2024,Rennes
 43,2024-04-28,17:05,Ligue 1,Matchweek 31,Sun,Home,L,4,5,Brest,2.6,2.0,47.0,28527.0,Steve Mandanda,4-4-2,Benoît Bastien,Match Report,,21.0,7.0,18.9,1.0,0,0,2024,Rennes
 44,2024-05-04,19:00,Ligue 1,Matchweek 32,Sat,Away,W,3,2,Metz,2.1,0.6,64.0,23290.0,Steve Mandanda,4-4-2,Ruddy Buquet,Match Report,,20.0,8.0,19.2,1.0,1,1,2024,Rennes
-0,2023-08-13,15:00,Ligue 1,Matchweek 1,Sun,Away,W,2,1,Nantes,1.1,1.1,56.0,30578.0,Vincent Sierro,4-3-3,Willy Delajod,Match Report,,9.0,5.0,13.3,0.0,0,0,2024,Toulouse
-1,2023-08-19,21:00,Ligue 1,Matchweek 2,Sat,Home,D,1,1,Paris S-G,1.2,2.1,24.0,27332.0,Vincent Sierro,3-4-3,Thomas Léonard,Match Report,,7.0,1.0,23.1,0.0,1,1,2024,Toulouse
-2,2023-08-27,15:00,Ligue 1,Matchweek 3,Sun,Away,L,0,2,Strasbourg,0.3,3.4,61.0,25090.0,Vincent Sierro,4-4-2,Benoît Bastien,Match Report,,7.0,1.0,16.0,0.0,0,0,2024,Toulouse
-3,2023-09-03,13:00,Ligue 1,Matchweek 4,Sun,Home,D,2,2,Clermont Foot,0.6,1.8,37.0,28285.0,Vincent Sierro,3-4-1-2,Florent Batta,Match Report,,9.0,5.0,20.0,0.0,0,0,2024,Toulouse
-4,2023-09-17,17:05,Ligue 1,Matchweek 5,Sun,Away,D,0,0,Marseille,0.7,1.5,39.0,63477.0,Vincent Sierro,4-4-2,François Letexier,Match Report,,10.0,3.0,17.5,0.0,0,0,2024,Toulouse
-6,2023-09-24,15:00,Ligue 1,Matchweek 6,Sun,Away,L,1,2,Lens,0.4,2.5,38.0,37506.0,Rasmus Nicolaisen,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,7.0,2.0,20.1,1.0,0,0,2024,Toulouse
-7,2023-10-01,15:00,Ligue 1,Matchweek 7,Sun,Home,W,3,0,Metz,1.3,0.7,66.0,24770.0,Rasmus Nicolaisen,4-2-3-1,Gaël Angoula,Match Report,,15.0,10.0,14.6,0.0,0,0,2024,Toulouse
-9,2023-10-08,15:00,Ligue 1,Matchweek 8,Sun,Away,D,1,1,Brest,1.2,1.5,45.0,13549.0,Rasmus Nicolaisen,4-4-1-1,Pierre Gaillouste,Match Report,,9.0,3.0,15.8,0.0,0,0,2024,Toulouse
-10,2023-10-22,15:00,Ligue 1,Matchweek 9,Sun,Home,D,1,1,Reims,0.8,1.3,49.0,23895.0,Vincent Sierro,4-1-4-1,Jeremy Stinat,Match Report,,11.0,5.0,19.8,1.0,0,0,2024,Toulouse
-12,2023-10-29,15:00,Ligue 1,Matchweek 10,Sun,Away,L,0,3,Montpellier,1.2,3.0,61.0,13209.0,Rasmus Nicolaisen,4-3-3,Thomas Léonard,Match Report,,17.0,5.0,18.5,0.0,0,0,2024,Toulouse
-13,2023-11-05,15:00,Ligue 1,Matchweek 11,Sun,Home,L,1,2,Le Havre,2.6,1.1,52.0,23060.0,Rasmus Nicolaisen,4-3-3,Marc Bollengier,Match Report,,16.0,5.0,19.2,0.0,0,1,2024,Toulouse
-15,2023-11-12,15:00,Ligue 1,Matchweek 12,Sun,Away,D,1,1,Lille,0.1,2.5,40.0,34959.0,Vincent Sierro,4-2-3-1,Mathieu Vernice,Match Report,,2.0,1.0,21.0,0.0,0,0,2024,Toulouse
-16,2023-11-26,13:00,Ligue 1,Matchweek 13,Sun,Away,L,0,1,Nice,1.3,1.0,47.0,21849.0,Vincent Sierro,4-2-3-1,François Letexier,Match Report,,19.0,2.0,16.5,1.0,0,0,2024,Toulouse
-18,2023-12-03,15:00,Ligue 1,Matchweek 14,Sun,Home,D,1,1,Lorient,1.0,0.8,52.0,22799.0,Vincent Sierro,4-2-3-1,Thomas Léonard,Match Report,,11.0,6.0,19.0,0.0,0,0,2024,Toulouse
-19,2023-12-10,17:05,Ligue 1,Matchweek 15,Sun,Away,L,0,3,Lyon,1.5,1.7,51.0,36677.0,Vincent Sierro,4-3-3,Pierre Gaillouste,Match Report,,15.0,5.0,21.8,1.0,0,1,2024,Toulouse
-21,2023-12-17,15:00,Ligue 1,Matchweek 16,Sun,Home,D,0,0,Rennes,0.9,0.7,49.0,23310.0,Vincent Sierro,4-4-2,Jeremy Stinat,Match Report,,15.0,4.0,21.0,1.0,0,0,2024,Toulouse
-22,2023-12-20,21:00,Ligue 1,Matchweek 17,Wed,Home,L,1,2,Monaco,1.4,1.9,55.0,23881.0,Rasmus Nicolaisen,4-2-3-1,Jérôme Brisard,Match Report,,20.0,5.0,14.9,0.0,0,0,2024,Toulouse
-25,2024-01-14,15:00,Ligue 1,Matchweek 18,Sun,Away,W,1,0,Metz,1.0,0.7,60.0,21065.0,Vincent Sierro,4-3-3,Florent Batta,Match Report,,3.0,1.0,23.8,1.0,1,1,2024,Toulouse
-27,2024-01-28,17:05,Ligue 1,Matchweek 19,Sun,Home,L,0,2,Lens,1.7,0.8,53.0,27310.0,Vincent Sierro,4-2-3-1,Mathieu Vernice,Match Report,,12.0,4.0,16.1,0.0,0,1,2024,Toulouse
-28,2024-02-04,15:00,Ligue 1,Matchweek 20,Sun,Away,W,3,2,Reims,1.5,2.8,38.0,12817.0,Vincent Sierro,4-2-3-1,Pierre Gaillouste,Match Report,,8.0,3.0,17.0,0.0,1,1,2024,Toulouse
-29,2024-02-11,15:00,Ligue 1,Matchweek 21,Sun,Home,L,1,2,Nantes,1.0,0.4,74.0,28933.0,Vincent Sierro,4-2-3-1,Gaël Angoula,Match Report,,16.0,3.0,17.7,1.0,0,0,2024,Toulouse
-31,2024-02-18,15:00,Ligue 1,Matchweek 22,Sun,Away,W,2,1,Monaco,1.4,1.7,35.0,4702.0,Vincent Sierro,3-4-3,Benoît Bastien,Match Report,,14.0,7.0,17.5,2.0,0,0,2024,Toulouse
-33,2024-02-25,15:00,Ligue 1,Matchweek 23,Sun,Home,W,3,1,Lille,2.1,0.6,32.0,24124.0,Rasmus Nicolaisen,3-4-1-2,Mathieu Vernice,Match Report,,13.0,3.0,13.5,0.0,1,1,2024,Toulouse
-34,2024-03-03,13:00,Ligue 1,Matchweek 24,Sun,Home,W,2,1,Nice,1.8,1.4,44.0,25507.0,Vincent Sierro,3-4-3,Jérémie Pignard,Match Report,,17.0,6.0,14.0,0.0,0,0,2024,Toulouse
-35,2024-03-10,15:00,Ligue 1,Matchweek 25,Sun,Away,L,0,1,Le Havre,0.3,1.0,51.0,21462.0,Vincent Sierro,3-4-3,Romain Lissorgue,Match Report,,5.0,0.0,15.3,0.0,0,0,2024,Toulouse
-36,2024-03-15,21:00,Ligue 1,Matchweek 26,Fri,Home,L,2,3,Lyon,2.4,1.4,50.0,28434.0,Vincent Sierro,3-4-3,Jeremy Stinat,Match Report,,12.0,4.0,18.5,1.0,1,1,2024,Toulouse
-37,2024-03-31,15:00,Ligue 1,Matchweek 27,Sun,Away,W,3,0,Clermont Foot,1.8,0.8,46.0,10499.0,Vincent Sierro,3-4-3,Pierre Gaillouste,Match Report,,10.0,4.0,16.9,0.0,1,1,2024,Toulouse
-38,2024-04-07,15:00,Ligue 1,Matchweek 28,Sun,Home,D,0,0,Strasbourg,1.0,0.5,48.0,23495.0,Vincent Sierro,3-4-3,Ruddy Buquet,Match Report,,11.0,2.0,16.8,0.0,0,0,2024,Toulouse
-39,2024-04-13,21:00,Ligue 1,Matchweek 29,Sat,Away,W,2,1,Rennes,0.5,1.0,45.0,28055.0,Rasmus Nicolaisen,3-4-3,Florent Batta,Match Report,,10.0,3.0,14.5,0.0,0,0,2024,Toulouse
-40,2024-04-21,19:00,Ligue 1,Matchweek 30,Sun,Home,D,2,2,Marseille,0.5,1.1,46.0,30119.0,Vincent Sierro,3-4-3,Clément Turpin,Match Report,,10.0,3.0,19.2,0.0,0,0,2024,Toulouse
-41,2024-04-28,15:00,Ligue 1,Matchweek 31,Sun,Away,W,2,1,Lorient,1.8,1.4,51.0,16125.0,Vincent Sierro,3-4-3,Gaël Angoula,Match Report,,14.0,5.0,18.0,0.0,0,0,2024,Toulouse
-42,2024-05-03,19:00,Ligue 1,Matchweek 32,Fri,Home,L,1,2,Montpellier,1.3,0.5,63.0,24559.0,Vincent Sierro,4-3-3,Marc Bollengier,Match Report,,15.0,5.0,17.2,0.0,0,0,2024,Toulouse
-0,2023-08-12,17:00,Ligue 1,Matchweek 1,Sat,Away,L,1,2,Marseille,0.8,1.0,58.0,63787.0,Yunis Abdelhamid,4-2-3-1,Eric Wattellier,Match Report,,11.0,4.0,18.4,0.0,0,0,2024,Reims
-1,2023-08-20,15:00,Ligue 1,Matchweek 2,Sun,Home,W,2,0,Clermont Foot,2.4,0.4,46.0,12887.0,Yunis Abdelhamid,4-2-3-1,Romain Lissorgue,Match Report,,8.0,4.0,12.6,0.0,0,0,2024,Reims
-2,2023-08-27,15:00,Ligue 1,Matchweek 3,Sun,Away,W,3,1,Montpellier,1.4,0.9,48.0,14476.0,Yunis Abdelhamid,4-3-3,Marc Bollengier,Match Report,,11.0,5.0,22.3,1.0,0,1,2024,Reims
-3,2023-09-03,15:00,Ligue 1,Matchweek 4,Sun,Away,D,2,2,Metz,0.7,1.1,64.0,24272.0,Yunis Abdelhamid,4-3-3,Mathieu Vernice,Match Report,,12.0,2.0,23.2,0.0,0,0,2024,Reims
-4,2023-09-17,15:00,Ligue 1,Matchweek 5,Sun,Home,L,1,2,Brest,1.7,1.5,52.0,12948.0,Yunis Abdelhamid,4-3-3,Gaël Angoula,Match Report,,13.0,7.0,16.3,1.0,0,0,2024,Reims
-5,2023-09-26,21:00,Ligue 1,Matchweek 6,Tue,Away,W,2,1,Lille,0.5,1.2,31.0,33075.0,Yunis Abdelhamid,4-3-3,Jérémie Pignard,Match Report,,4.0,4.0,13.8,0.0,0,0,2024,Reims
-6,2023-10-01,13:00,Ligue 1,Matchweek 7,Sun,Home,W,2,0,Lyon,2.0,0.7,50.0,16477.0,Yunis Abdelhamid,4-3-3,François Letexier,Match Report,,8.0,3.0,12.0,0.0,0,0,2024,Reims
-7,2023-10-07,21:00,Ligue 1,Matchweek 8,Sat,Home,L,1,3,Monaco,1.5,1.2,54.0,19000.0,Yunis Abdelhamid,4-3-3,Hakim Ben El Hadj Salem,Match Report,,10.0,3.0,18.6,0.0,1,1,2024,Reims
-8,2023-10-22,15:00,Ligue 1,Matchweek 9,Sun,Away,D,1,1,Toulouse,1.3,0.8,51.0,23895.0,Yunis Abdelhamid,3-4-1-2,Jeremy Stinat,Match Report,,15.0,3.0,15.5,0.0,0,0,2024,Reims
-9,2023-10-28,17:00,Ligue 1,Matchweek 10,Sat,Home,W,1,0,Lorient,0.8,0.4,57.0,14033.0,Yunis Abdelhamid,3-4-1-2,Benoît Bastien,Match Report,,12.0,5.0,18.2,0.0,0,0,2024,Reims
-10,2023-11-05,15:00,Ligue 1,Matchweek 11,Sun,Away,W,1,0,Nantes,1.1,1.8,50.0,33621.0,Yunis Abdelhamid,3-4-1-2,Gaël Angoula,Match Report,,7.0,3.0,12.8,0.0,0,0,2024,Reims
-11,2023-11-11,17:00,Ligue 1,Matchweek 12,Sat,Home,L,0,3,Paris S-G,1.3,2.3,39.0,20500.0,Yunis Abdelhamid,5-4-1,Willy Delajod,Match Report,,19.0,6.0,14.0,1.0,0,0,2024,Reims
-12,2023-11-26,17:05,Ligue 1,Matchweek 13,Sun,Away,L,1,3,Rennes,1.6,1.8,62.0,27718.0,Yunis Abdelhamid,4-3-3,Ruddy Buquet,Match Report,,15.0,4.0,12.8,0.0,0,0,2024,Reims
-13,2023-12-01,21:00,Ligue 1,Matchweek 14,Fri,Home,W,2,1,Strasbourg,1.3,1.7,51.0,14500.0,Yunis Abdelhamid,3-1-4-2,Hakim Ben El Hadj Salem,Match Report,,12.0,3.0,14.9,0.0,0,0,2024,Reims
-14,2023-12-10,13:00,Ligue 1,Matchweek 15,Sun,Away,L,1,2,Nice,1.3,0.9,48.0,24325.0,Yunis Abdelhamid,3-1-4-2,Benoît Bastien,Match Report,,9.0,2.0,17.5,1.0,0,0,2024,Reims
-15,2023-12-16,21:00,Ligue 1,Matchweek 16,Sat,Away,L,0,2,Lens,1.1,1.3,54.0,38055.0,Yunis Abdelhamid,4-3-3,François Letexier,Match Report,,14.0,3.0,16.9,0.0,0,0,2024,Reims
-16,2023-12-20,21:00,Ligue 1,Matchweek 17,Wed,Home,W,1,0,Le Havre,1.2,0.2,65.0,14835.0,Teddy Teuma,4-3-3,Stéphanie Frappart,Match Report,,22.0,7.0,19.9,0.0,0,0,2024,Reims
-18,2024-01-13,17:00,Ligue 1,Matchweek 18,Sat,Away,W,3,1,Monaco,1.5,1.2,44.0,4231.0,Teddy Teuma,4-3-3,François Letexier,Match Report,,12.0,5.0,20.1,0.0,0,0,2024,Reims
-20,2024-01-28,15:00,Ligue 1,Matchweek 19,Sun,Home,D,0,0,Nantes,0.9,1.2,50.0,14388.0,Teddy Teuma,4-3-3,Jérémie Pignard,Match Report,,10.0,1.0,14.2,1.0,0,0,2024,Reims
-21,2024-02-04,15:00,Ligue 1,Matchweek 20,Sun,Home,L,2,3,Toulouse,2.8,1.5,62.0,12817.0,Yunis Abdelhamid,4-3-3,Pierre Gaillouste,Match Report,,17.0,4.0,14.7,1.0,0,0,2024,Reims
-22,2024-02-11,15:00,Ligue 1,Matchweek 21,Sun,Away,L,0,2,Lorient,1.2,1.9,61.0,15096.0,Yunis Abdelhamid,4-3-3,Marc Bollengier,Match Report,,23.0,5.0,18.7,0.0,0,0,2024,Reims
-23,2024-02-18,17:05,Ligue 1,Matchweek 22,Sun,Home,D,1,1,Lens,1.1,1.2,53.0,20116.0,Yunis Abdelhamid,3-5-2,Benoît Millot,Match Report,,11.0,2.0,21.3,0.0,0,0,2024,Reims
-24,2024-02-25,15:00,Ligue 1,Matchweek 23,Sun,Away,W,2,1,Le Havre,3.2,1.7,50.0,22046.0,Yunis Abdelhamid,3-4-3,Florent Batta,Match Report,,15.0,4.0,14.2,1.0,1,1,2024,Reims
-25,2024-03-02,17:00,Ligue 1,Matchweek 24,Sat,Home,L,0,1,Lille,0.6,1.1,57.0,16452.0,Yunis Abdelhamid,4-3-3,Jeremy Stinat,Match Report,,8.0,3.0,14.3,0.0,0,0,2024,Reims
-26,2024-03-10,13:00,Ligue 1,Matchweek 25,Sun,Away,D,2,2,Paris S-G,1.3,1.2,36.0,46000.0,Yunis Abdelhamid,4-4-1-1,Willy Delajod,Match Report,,8.0,3.0,17.1,0.0,0,0,2024,Reims
-27,2024-03-17,15:00,Ligue 1,Matchweek 26,Sun,Home,W,2,1,Metz,2.2,0.9,66.0,14335.0,Yunis Abdelhamid,4-4-1-1,Hakim Ben El Hadj Salem,Match Report,,17.0,7.0,14.4,0.0,0,0,2024,Reims
-28,2024-03-30,21:00,Ligue 1,Matchweek 27,Sat,Away,D,1,1,Lyon,1.4,1.8,35.0,46097.0,Yunis Abdelhamid,4-4-1-1,Thomas Léonard,Match Report,,17.0,5.0,17.5,0.0,0,0,2024,Reims
-29,2024-04-07,15:00,Ligue 1,Matchweek 28,Sun,Home,D,0,0,Nice,0.5,1.9,53.0,14606.0,Yunis Abdelhamid,3-5-2,Eric Wattellier,Match Report,,10.0,3.0,20.1,0.0,0,0,2024,Reims
-30,2024-04-13,17:00,Ligue 1,Matchweek 29,Sat,Away,L,1,3,Strasbourg,0.5,2.2,52.0,25000.0,Yunis Abdelhamid,4-4-1-1,Willy Delajod,Match Report,,8.0,2.0,17.6,0.0,0,0,2024,Reims
-31,2024-04-21,15:00,Ligue 1,Matchweek 30,Sun,Home,L,1,2,Montpellier,1.5,1.6,53.0,14183.0,Yunis Abdelhamid,4-4-1-1,Pierre Gaillouste,Match Report,,21.0,4.0,17.7,1.0,0,0,2024,Reims
-32,2024-04-28,15:00,Ligue 1,Matchweek 31,Sun,Away,L,1,4,Clermont Foot,0.9,2.9,50.0,8713.0,Yunis Abdelhamid,4-3-3,Florent Batta,Match Report,,10.0,3.0,17.2,1.0,0,0,2024,Reims
+1,2023-08-12,17:00,Ligue 1,Matchweek 1,Sat,Home,W,2,1,Reims,1.0,0.8,42.0,63787.0,Valentin Rongier,4-4-2,Eric Wattellier,Match Report,,14.0,4.0,15.8,1.0,0,0,2024,Marseille
+3,2023-08-18,21:00,Ligue 1,Matchweek 2,Fri,Away,D,2,2,Metz,1.9,0.5,57.0,26661.0,Valentin Rongier,4-4-2,Jérôme Brisard,Match Report,,22.0,5.0,16.0,1.0,0,0,2024,Marseille
+4,2023-08-26,19:00,Ligue 1,Matchweek 3,Sat,Home,W,2,0,Brest,2.9,1.5,44.0,63592.0,Valentin Rongier,4-4-2,Jeremy Stinat,Match Report,,15.0,6.0,12.9,0.0,0,0,2024,Marseille
+5,2023-09-01,21:00,Ligue 1,Matchweek 4,Fri,Away,D,1,1,Nantes,2.6,0.9,63.0,34600.0,Valentin Rongier,4-4-2,Ruddy Buquet,Match Report,,26.0,9.0,17.7,1.0,0,0,2024,Marseille
+6,2023-09-17,17:05,Ligue 1,Matchweek 5,Sun,Home,D,0,0,Toulouse,1.5,0.7,61.0,63477.0,Valentin Rongier,4-4-2,François Letexier,Match Report,,24.0,6.0,18.7,3.0,0,0,2024,Marseille
+8,2023-09-24,20:45,Ligue 1,Matchweek 6,Sun,Away,L,0,4,Paris S-G,0.7,1.9,24.0,47000.0,Valentin Rongier,3-5-2,Willy Delajod,Match Report,,6.0,0.0,18.3,0.0,0,0,2024,Marseille
+9,2023-09-30,21:00,Ligue 1,Matchweek 7,Sat,Away,L,2,3,Monaco,1.0,1.0,54.0,10200.0,Valentin Rongier,4-3-3,Benoît Bastien,Match Report,,8.0,4.0,17.7,0.0,0,0,2024,Marseille
+11,2023-10-08,13:00,Ligue 1,Matchweek 8,Sun,Home,W,3,0,Le Havre,2.8,0.2,64.0,63576.0,Valentin Rongier,4-3-3,Thomas Léonard,Match Report,,14.0,6.0,15.6,0.0,0,0,2024,Marseille
+12,2023-10-21,21:00,Ligue 1,Matchweek 9,Sat,Away,L,0,1,Nice,1.1,0.6,50.0,31423.0,Valentin Rongier,4-2-3-1,Ruddy Buquet,Match Report,,9.0,1.0,17.7,0.0,0,0,2024,Marseille
+14,2023-11-04,21:00,Ligue 1,Matchweek 11,Sat,Home,D,0,0,Lille,0.8,0.3,46.0,63674.0,Valentin Rongier,4-3-3,Stéphanie Frappart,Match Report,,8.0,3.0,19.3,1.0,0,0,2024,Marseille
+16,2023-11-12,20:45,Ligue 1,Matchweek 12,Sun,Away,L,0,1,Lens,1.0,1.1,53.0,38223.0,Samuel Gigot,4-2-3-1,Benoît Bastien,Match Report,,8.0,2.0,15.6,0.0,0,0,2024,Marseille
+17,2023-11-25,21:00,Ligue 1,Matchweek 13,Sat,Away,D,1,1,Strasbourg,1.4,1.1,60.0,25443.0,Geoffrey Kondogbia,4-2-3-1,Jérôme Brisard,Match Report,,16.0,3.0,14.8,0.0,0,0,2024,Marseille
+19,2023-12-03,20:45,Ligue 1,Matchweek 14,Sun,Home,W,2,0,Rennes,0.9,0.6,43.0,54162.0,Samuel Gigot,4-2-3-1,Willy Delajod,Match Report,,4.0,1.0,24.8,0.0,1,1,2024,Marseille
+20,2023-12-06,21:00,Ligue 1,Matchweek 10,Wed,Home,W,3,0,Lyon,2.2,0.2,49.0,54238.0,Samuel Gigot,3-5-2,François Letexier,Match Report,,12.0,5.0,15.8,1.0,0,0,2024,Marseille
+21,2023-12-10,20:45,Ligue 1,Matchweek 15,Sun,Away,W,4,2,Lorient,2.3,2.2,50.0,15848.0,Samuel Gigot,3-5-2,Eric Wattellier,Match Report,,18.0,8.0,14.0,0.0,0,0,2024,Marseille
+23,2023-12-17,17:05,Ligue 1,Matchweek 16,Sun,Home,W,2,1,Clermont Foot,2.4,0.2,55.0,63753.0,Samuel Gigot,3-5-2,Gaël Angoula,Match Report,,15.0,6.0,14.1,1.0,0,0,2024,Marseille
+24,2023-12-20,21:00,Ligue 1,Matchweek 17,Wed,Away,D,1,1,Montpellier,1.3,0.9,68.0,18565.0,Samuel Gigot,5-3-2,Thomas Léonard,Match Report,,17.0,4.0,15.3,1.0,0,0,2024,Marseille
+26,2024-01-12,21:00,Ligue 1,Matchweek 18,Fri,Home,D,1,1,Strasbourg,1.4,1.2,47.0,53616.0,Samuel Gigot,3-5-2,Marc Bollengier,Match Report,,8.0,1.0,15.5,1.0,0,0,2024,Marseille
+28,2024-01-27,21:00,Ligue 1,Matchweek 19,Sat,Home,D,2,2,Monaco,2.4,0.5,68.0,63029.0,Geoffrey Kondogbia,4-3-3,Willy Delajod,Match Report,,22.0,9.0,15.9,0.0,0,0,2024,Marseille
+29,2024-02-04,20:45,Ligue 1,Matchweek 20,Sun,Away,L,0,1,Lyon,0.3,1.4,63.0,46380.0,Samuel Gigot,4-3-3,Benoît Bastien,Match Report,,8.0,0.0,24.8,0.0,0,0,2024,Marseille
+30,2024-02-09,21:00,Ligue 1,Matchweek 21,Fri,Home,D,1,1,Metz,1.8,0.8,66.0,62686.0,Samuel Gigot,4-3-3,Hakim Ben El Hadj Salem,Match Report,,18.0,6.0,18.1,1.0,0,0,2024,Marseille
+32,2024-02-18,20:45,Ligue 1,Matchweek 22,Sun,Away,L,0,1,Brest,0.6,1.7,58.0,13800.0,Chancel Mbemba,4-3-3,Ruddy Buquet,Match Report,,9.0,2.0,18.3,1.0,0,0,2024,Marseille
+34,2024-02-25,20:45,Ligue 1,Matchweek 23,Sun,Home,W,4,1,Montpellier,2.7,0.6,58.0,61263.0,Samuel Gigot,4-3-3,Jérémie Pignard,Match Report,,15.0,5.0,17.7,0.0,1,1,2024,Marseille
+35,2024-03-02,21:00,Ligue 1,Matchweek 24,Sat,Away,W,5,1,Clermont Foot,2.4,0.7,56.0,10583.0,Chancel Mbemba,4-3-3,Thomas Léonard,Match Report,,17.0,11.0,14.8,0.0,0,0,2024,Marseille
+37,2024-03-10,20:45,Ligue 1,Matchweek 25,Sun,Home,W,2,0,Nantes,1.5,1.0,53.0,56958.0,Chancel Mbemba,4-3-3,François Letexier,Match Report,,12.0,4.0,17.3,1.0,0,0,2024,Marseille
+39,2024-03-17,17:05,Ligue 1,Matchweek 26,Sun,Away,L,0,2,Rennes,0.7,1.4,57.0,28610.0,Geoffrey Kondogbia,4-2-3-1,Eric Wattellier,Match Report,,8.0,1.0,17.0,1.0,0,0,2024,Marseille
+40,2024-03-31,20:45,Ligue 1,Matchweek 27,Sun,Home,L,0,2,Paris S-G,1.4,2.1,47.0,66046.0,Geoffrey Kondogbia,4-3-3,Benoît Bastien,Match Report,,22.0,10.0,19.4,0.0,0,0,2024,Marseille
+41,2024-04-05,21:00,Ligue 1,Matchweek 28,Fri,Away,L,1,3,Lille,1.2,1.8,47.0,46864.0,Samuel Gigot,4-3-3,Bastien Dechepy,Match Report,,14.0,5.0,21.1,2.0,0,0,2024,Marseille
+44,2024-04-21,19:00,Ligue 1,Matchweek 30,Sun,Away,D,2,2,Toulouse,1.1,0.5,54.0,30119.0,Pau López,5-3-2,Clément Turpin,Match Report,,11.0,3.0,18.2,1.0,0,0,2024,Marseille
+45,2024-04-24,21:00,Ligue 1,Matchweek 29,Wed,Home,D,2,2,Nice,2.2,1.4,48.0,53000.0,Samuel Gigot,3-5-2,Jérémie Pignard,Match Report,,10.0,3.0,19.8,0.0,1,1,2024,Marseille
+46,2024-04-28,21:00,Ligue 1,Matchweek 31,Sun,Home,W,2,1,Lens,1.7,1.2,44.0,59490.0,Samuel Gigot,3-5-2,Eric Wattellier,Match Report,,13.0,6.0,16.4,1.0,0,0,2024,Marseille
 0,2023-08-13,15:00,Ligue 1,Matchweek 1,Sun,Home,D,2.0,2.0,Le Havre,1.6,1.0,58.0,15852.0,Téji Savanier,4-2-3-1,Clément Turpin,Match Report,,14.0,5.0,15.2,1.0,0,0,2024,Montpellier
 1,2023-08-19,19:00,Ligue 1,Matchweek 2,Sat,Away,W,4.0,1.0,Lyon,2.9,0.4,37.0,42576.0,Téji Savanier,4-2-3-1,Mathieu Vernice,Match Report,,14.0,8.0,20.5,1.0,0,0,2024,Montpellier
 2,2023-08-27,15:00,Ligue 1,Matchweek 3,Sun,Home,L,1.0,3.0,Reims,0.9,1.4,52.0,14476.0,Téji Savanier,4-2-3-1,Marc Bollengier,Match Report,,20.0,3.0,17.5,2.0,0,0,2024,Montpellier
@@ -379,6 +318,70 @@
 32,2024-04-21,15:00,Ligue 1,Matchweek 30,Sun,Away,W,2.0,1.0,Reims,1.6,1.5,47.0,14183.0,Téji Savanier,4-2-3-1,Pierre Gaillouste,Match Report,,12.0,4.0,18.1,1.0,0,0,2024,Montpellier
 33,2024-04-26,21:00,Ligue 1,Matchweek 31,Fri,Home,D,1.0,1.0,Nantes,0.8,1.3,54.0,17331.0,Téji Savanier,4-2-3-1,Jeremy Stinat,Match Report,,8.0,1.0,20.5,0.0,0,0,2024,Montpellier
 34,2024-05-03,19:00,Ligue 1,Matchweek 32,Fri,Away,W,2.0,1.0,Toulouse,0.5,1.3,37.0,24559.0,Téji Savanier,5-3-2,Marc Bollengier,Match Report,,5.0,3.0,19.1,1.0,0,0,2024,Montpellier
+0,2023-08-12,17:00,Ligue 1,Matchweek 1,Sat,Away,L,1,2,Marseille,0.8,1.0,58.0,63787.0,Yunis Abdelhamid,4-2-3-1,Eric Wattellier,Match Report,,11.0,4.0,18.4,0.0,0,0,2024,Reims
+1,2023-08-20,15:00,Ligue 1,Matchweek 2,Sun,Home,W,2,0,Clermont Foot,2.4,0.4,46.0,12887.0,Yunis Abdelhamid,4-2-3-1,Romain Lissorgue,Match Report,,8.0,4.0,12.6,0.0,0,0,2024,Reims
+2,2023-08-27,15:00,Ligue 1,Matchweek 3,Sun,Away,W,3,1,Montpellier,1.4,0.9,48.0,14476.0,Yunis Abdelhamid,4-3-3,Marc Bollengier,Match Report,,11.0,5.0,22.3,1.0,0,1,2024,Reims
+3,2023-09-03,15:00,Ligue 1,Matchweek 4,Sun,Away,D,2,2,Metz,0.7,1.1,64.0,24272.0,Yunis Abdelhamid,4-3-3,Mathieu Vernice,Match Report,,12.0,2.0,23.2,0.0,0,0,2024,Reims
+4,2023-09-17,15:00,Ligue 1,Matchweek 5,Sun,Home,L,1,2,Brest,1.7,1.5,52.0,12948.0,Yunis Abdelhamid,4-3-3,Gaël Angoula,Match Report,,13.0,7.0,16.3,1.0,0,0,2024,Reims
+5,2023-09-26,21:00,Ligue 1,Matchweek 6,Tue,Away,W,2,1,Lille,0.5,1.2,31.0,33075.0,Yunis Abdelhamid,4-3-3,Jérémie Pignard,Match Report,,4.0,4.0,13.8,0.0,0,0,2024,Reims
+6,2023-10-01,13:00,Ligue 1,Matchweek 7,Sun,Home,W,2,0,Lyon,2.0,0.7,50.0,16477.0,Yunis Abdelhamid,4-3-3,François Letexier,Match Report,,8.0,3.0,12.0,0.0,0,0,2024,Reims
+7,2023-10-07,21:00,Ligue 1,Matchweek 8,Sat,Home,L,1,3,Monaco,1.5,1.2,54.0,19000.0,Yunis Abdelhamid,4-3-3,Hakim Ben El Hadj Salem,Match Report,,10.0,3.0,18.6,0.0,1,1,2024,Reims
+8,2023-10-22,15:00,Ligue 1,Matchweek 9,Sun,Away,D,1,1,Toulouse,1.3,0.8,51.0,23895.0,Yunis Abdelhamid,3-4-1-2,Jeremy Stinat,Match Report,,15.0,3.0,15.5,0.0,0,0,2024,Reims
+9,2023-10-28,17:00,Ligue 1,Matchweek 10,Sat,Home,W,1,0,Lorient,0.8,0.4,57.0,14033.0,Yunis Abdelhamid,3-4-1-2,Benoît Bastien,Match Report,,12.0,5.0,18.2,0.0,0,0,2024,Reims
+10,2023-11-05,15:00,Ligue 1,Matchweek 11,Sun,Away,W,1,0,Nantes,1.1,1.8,50.0,33621.0,Yunis Abdelhamid,3-4-1-2,Gaël Angoula,Match Report,,7.0,3.0,12.8,0.0,0,0,2024,Reims
+11,2023-11-11,17:00,Ligue 1,Matchweek 12,Sat,Home,L,0,3,Paris S-G,1.3,2.3,39.0,20500.0,Yunis Abdelhamid,5-4-1,Willy Delajod,Match Report,,19.0,6.0,14.0,1.0,0,0,2024,Reims
+12,2023-11-26,17:05,Ligue 1,Matchweek 13,Sun,Away,L,1,3,Rennes,1.6,1.8,62.0,27718.0,Yunis Abdelhamid,4-3-3,Ruddy Buquet,Match Report,,15.0,4.0,12.8,0.0,0,0,2024,Reims
+13,2023-12-01,21:00,Ligue 1,Matchweek 14,Fri,Home,W,2,1,Strasbourg,1.3,1.7,51.0,14500.0,Yunis Abdelhamid,3-1-4-2,Hakim Ben El Hadj Salem,Match Report,,12.0,3.0,14.9,0.0,0,0,2024,Reims
+14,2023-12-10,13:00,Ligue 1,Matchweek 15,Sun,Away,L,1,2,Nice,1.3,0.9,48.0,24325.0,Yunis Abdelhamid,3-1-4-2,Benoît Bastien,Match Report,,9.0,2.0,17.5,1.0,0,0,2024,Reims
+15,2023-12-16,21:00,Ligue 1,Matchweek 16,Sat,Away,L,0,2,Lens,1.1,1.3,54.0,38055.0,Yunis Abdelhamid,4-3-3,François Letexier,Match Report,,14.0,3.0,16.9,0.0,0,0,2024,Reims
+16,2023-12-20,21:00,Ligue 1,Matchweek 17,Wed,Home,W,1,0,Le Havre,1.2,0.2,65.0,14835.0,Teddy Teuma,4-3-3,Stéphanie Frappart,Match Report,,22.0,7.0,19.9,0.0,0,0,2024,Reims
+18,2024-01-13,17:00,Ligue 1,Matchweek 18,Sat,Away,W,3,1,Monaco,1.5,1.2,44.0,4231.0,Teddy Teuma,4-3-3,François Letexier,Match Report,,12.0,5.0,20.1,0.0,0,0,2024,Reims
+20,2024-01-28,15:00,Ligue 1,Matchweek 19,Sun,Home,D,0,0,Nantes,0.9,1.2,50.0,14388.0,Teddy Teuma,4-3-3,Jérémie Pignard,Match Report,,10.0,1.0,14.2,1.0,0,0,2024,Reims
+21,2024-02-04,15:00,Ligue 1,Matchweek 20,Sun,Home,L,2,3,Toulouse,2.8,1.5,62.0,12817.0,Yunis Abdelhamid,4-3-3,Pierre Gaillouste,Match Report,,17.0,4.0,14.7,1.0,0,0,2024,Reims
+22,2024-02-11,15:00,Ligue 1,Matchweek 21,Sun,Away,L,0,2,Lorient,1.2,1.9,61.0,15096.0,Yunis Abdelhamid,4-3-3,Marc Bollengier,Match Report,,23.0,5.0,18.7,0.0,0,0,2024,Reims
+23,2024-02-18,17:05,Ligue 1,Matchweek 22,Sun,Home,D,1,1,Lens,1.1,1.2,53.0,20116.0,Yunis Abdelhamid,3-5-2,Benoît Millot,Match Report,,11.0,2.0,21.3,0.0,0,0,2024,Reims
+24,2024-02-25,15:00,Ligue 1,Matchweek 23,Sun,Away,W,2,1,Le Havre,3.2,1.7,50.0,22046.0,Yunis Abdelhamid,3-4-3,Florent Batta,Match Report,,15.0,4.0,14.2,1.0,1,1,2024,Reims
+25,2024-03-02,17:00,Ligue 1,Matchweek 24,Sat,Home,L,0,1,Lille,0.6,1.1,57.0,16452.0,Yunis Abdelhamid,4-3-3,Jeremy Stinat,Match Report,,8.0,3.0,14.3,0.0,0,0,2024,Reims
+26,2024-03-10,13:00,Ligue 1,Matchweek 25,Sun,Away,D,2,2,Paris S-G,1.3,1.2,36.0,46000.0,Yunis Abdelhamid,4-4-1-1,Willy Delajod,Match Report,,8.0,3.0,17.1,0.0,0,0,2024,Reims
+27,2024-03-17,15:00,Ligue 1,Matchweek 26,Sun,Home,W,2,1,Metz,2.2,0.9,66.0,14335.0,Yunis Abdelhamid,4-4-1-1,Hakim Ben El Hadj Salem,Match Report,,17.0,7.0,14.4,0.0,0,0,2024,Reims
+28,2024-03-30,21:00,Ligue 1,Matchweek 27,Sat,Away,D,1,1,Lyon,1.4,1.8,35.0,46097.0,Yunis Abdelhamid,4-4-1-1,Thomas Léonard,Match Report,,17.0,5.0,17.5,0.0,0,0,2024,Reims
+29,2024-04-07,15:00,Ligue 1,Matchweek 28,Sun,Home,D,0,0,Nice,0.5,1.9,53.0,14606.0,Yunis Abdelhamid,3-5-2,Eric Wattellier,Match Report,,10.0,3.0,20.1,0.0,0,0,2024,Reims
+30,2024-04-13,17:00,Ligue 1,Matchweek 29,Sat,Away,L,1,3,Strasbourg,0.5,2.2,52.0,25000.0,Yunis Abdelhamid,4-4-1-1,Willy Delajod,Match Report,,8.0,2.0,17.6,0.0,0,0,2024,Reims
+31,2024-04-21,15:00,Ligue 1,Matchweek 30,Sun,Home,L,1,2,Montpellier,1.5,1.6,53.0,14183.0,Yunis Abdelhamid,4-4-1-1,Pierre Gaillouste,Match Report,,21.0,4.0,17.7,1.0,0,0,2024,Reims
+32,2024-04-28,15:00,Ligue 1,Matchweek 31,Sun,Away,L,1,4,Clermont Foot,0.9,2.9,50.0,8713.0,Yunis Abdelhamid,4-3-3,Florent Batta,Match Report,,10.0,3.0,17.2,1.0,0,0,2024,Reims
+33,2024-05-10,21:00,Ligue 1,Matchweek 33,Fri,Away,D,1,1,Brest,0.5,1.1,38.0,,Yunis Abdelhamid,4-2-3-1,Jérôme Brisard,Match Report,,8.0,2.0,20.2,1.0,0,0,2024,Reims
+0,2023-08-13,15:00,Ligue 1,Matchweek 1,Sun,Away,W,2,1,Nantes,1.1,1.1,56.0,30578.0,Vincent Sierro,4-3-3,Willy Delajod,Match Report,,9.0,5.0,13.3,0.0,0,0,2024,Toulouse
+1,2023-08-19,21:00,Ligue 1,Matchweek 2,Sat,Home,D,1,1,Paris S-G,1.2,2.1,24.0,27332.0,Vincent Sierro,3-4-3,Thomas Léonard,Match Report,,7.0,1.0,23.1,0.0,1,1,2024,Toulouse
+2,2023-08-27,15:00,Ligue 1,Matchweek 3,Sun,Away,L,0,2,Strasbourg,0.3,3.4,61.0,25090.0,Vincent Sierro,4-4-2,Benoît Bastien,Match Report,,7.0,1.0,16.0,0.0,0,0,2024,Toulouse
+3,2023-09-03,13:00,Ligue 1,Matchweek 4,Sun,Home,D,2,2,Clermont Foot,0.6,1.8,37.0,28285.0,Vincent Sierro,3-4-1-2,Florent Batta,Match Report,,9.0,5.0,20.0,0.0,0,0,2024,Toulouse
+4,2023-09-17,17:05,Ligue 1,Matchweek 5,Sun,Away,D,0,0,Marseille,0.7,1.5,39.0,63477.0,Vincent Sierro,4-4-2,François Letexier,Match Report,,10.0,3.0,17.5,0.0,0,0,2024,Toulouse
+6,2023-09-24,15:00,Ligue 1,Matchweek 6,Sun,Away,L,1,2,Lens,0.4,2.5,38.0,37506.0,Rasmus Nicolaisen,4-2-3-1,Hakim Ben El Hadj Salem,Match Report,,7.0,2.0,20.1,1.0,0,0,2024,Toulouse
+7,2023-10-01,15:00,Ligue 1,Matchweek 7,Sun,Home,W,3,0,Metz,1.3,0.7,66.0,24770.0,Rasmus Nicolaisen,4-2-3-1,Gaël Angoula,Match Report,,15.0,10.0,14.6,0.0,0,0,2024,Toulouse
+9,2023-10-08,15:00,Ligue 1,Matchweek 8,Sun,Away,D,1,1,Brest,1.2,1.5,45.0,13549.0,Rasmus Nicolaisen,4-4-1-1,Pierre Gaillouste,Match Report,,9.0,3.0,15.8,0.0,0,0,2024,Toulouse
+10,2023-10-22,15:00,Ligue 1,Matchweek 9,Sun,Home,D,1,1,Reims,0.8,1.3,49.0,23895.0,Vincent Sierro,4-1-4-1,Jeremy Stinat,Match Report,,11.0,5.0,19.8,1.0,0,0,2024,Toulouse
+12,2023-10-29,15:00,Ligue 1,Matchweek 10,Sun,Away,L,0,3,Montpellier,1.2,3.0,61.0,13209.0,Rasmus Nicolaisen,4-3-3,Thomas Léonard,Match Report,,17.0,5.0,18.5,0.0,0,0,2024,Toulouse
+13,2023-11-05,15:00,Ligue 1,Matchweek 11,Sun,Home,L,1,2,Le Havre,2.6,1.1,52.0,23060.0,Rasmus Nicolaisen,4-3-3,Marc Bollengier,Match Report,,16.0,5.0,19.2,0.0,0,1,2024,Toulouse
+15,2023-11-12,15:00,Ligue 1,Matchweek 12,Sun,Away,D,1,1,Lille,0.1,2.5,40.0,34959.0,Vincent Sierro,4-2-3-1,Mathieu Vernice,Match Report,,2.0,1.0,21.0,0.0,0,0,2024,Toulouse
+16,2023-11-26,13:00,Ligue 1,Matchweek 13,Sun,Away,L,0,1,Nice,1.3,1.0,47.0,21849.0,Vincent Sierro,4-2-3-1,François Letexier,Match Report,,19.0,2.0,16.5,1.0,0,0,2024,Toulouse
+18,2023-12-03,15:00,Ligue 1,Matchweek 14,Sun,Home,D,1,1,Lorient,1.0,0.8,52.0,22799.0,Vincent Sierro,4-2-3-1,Thomas Léonard,Match Report,,11.0,6.0,19.0,0.0,0,0,2024,Toulouse
+19,2023-12-10,17:05,Ligue 1,Matchweek 15,Sun,Away,L,0,3,Lyon,1.5,1.7,51.0,36677.0,Vincent Sierro,4-3-3,Pierre Gaillouste,Match Report,,15.0,5.0,21.8,1.0,0,1,2024,Toulouse
+21,2023-12-17,15:00,Ligue 1,Matchweek 16,Sun,Home,D,0,0,Rennes,0.9,0.7,49.0,23310.0,Vincent Sierro,4-4-2,Jeremy Stinat,Match Report,,15.0,4.0,21.0,1.0,0,0,2024,Toulouse
+22,2023-12-20,21:00,Ligue 1,Matchweek 17,Wed,Home,L,1,2,Monaco,1.4,1.9,55.0,23881.0,Rasmus Nicolaisen,4-2-3-1,Jérôme Brisard,Match Report,,20.0,5.0,14.9,0.0,0,0,2024,Toulouse
+25,2024-01-14,15:00,Ligue 1,Matchweek 18,Sun,Away,W,1,0,Metz,1.0,0.7,60.0,21065.0,Vincent Sierro,4-3-3,Florent Batta,Match Report,,3.0,1.0,23.8,1.0,1,1,2024,Toulouse
+27,2024-01-28,17:05,Ligue 1,Matchweek 19,Sun,Home,L,0,2,Lens,1.7,0.8,53.0,27310.0,Vincent Sierro,4-2-3-1,Mathieu Vernice,Match Report,,12.0,4.0,16.1,0.0,0,1,2024,Toulouse
+28,2024-02-04,15:00,Ligue 1,Matchweek 20,Sun,Away,W,3,2,Reims,1.5,2.8,38.0,12817.0,Vincent Sierro,4-2-3-1,Pierre Gaillouste,Match Report,,8.0,3.0,17.0,0.0,1,1,2024,Toulouse
+29,2024-02-11,15:00,Ligue 1,Matchweek 21,Sun,Home,L,1,2,Nantes,1.0,0.4,74.0,28933.0,Vincent Sierro,4-2-3-1,Gaël Angoula,Match Report,,16.0,3.0,17.7,1.0,0,0,2024,Toulouse
+31,2024-02-18,15:00,Ligue 1,Matchweek 22,Sun,Away,W,2,1,Monaco,1.4,1.7,35.0,4702.0,Vincent Sierro,3-4-3,Benoît Bastien,Match Report,,14.0,7.0,17.5,2.0,0,0,2024,Toulouse
+33,2024-02-25,15:00,Ligue 1,Matchweek 23,Sun,Home,W,3,1,Lille,2.1,0.6,32.0,24124.0,Rasmus Nicolaisen,3-4-1-2,Mathieu Vernice,Match Report,,13.0,3.0,13.5,0.0,1,1,2024,Toulouse
+34,2024-03-03,13:00,Ligue 1,Matchweek 24,Sun,Home,W,2,1,Nice,1.8,1.4,44.0,25507.0,Vincent Sierro,3-4-3,Jérémie Pignard,Match Report,,17.0,6.0,14.0,0.0,0,0,2024,Toulouse
+35,2024-03-10,15:00,Ligue 1,Matchweek 25,Sun,Away,L,0,1,Le Havre,0.3,1.0,51.0,21462.0,Vincent Sierro,3-4-3,Romain Lissorgue,Match Report,,5.0,0.0,15.3,0.0,0,0,2024,Toulouse
+36,2024-03-15,21:00,Ligue 1,Matchweek 26,Fri,Home,L,2,3,Lyon,2.4,1.4,50.0,28434.0,Vincent Sierro,3-4-3,Jeremy Stinat,Match Report,,12.0,4.0,18.5,1.0,1,1,2024,Toulouse
+37,2024-03-31,15:00,Ligue 1,Matchweek 27,Sun,Away,W,3,0,Clermont Foot,1.8,0.8,46.0,10499.0,Vincent Sierro,3-4-3,Pierre Gaillouste,Match Report,,10.0,4.0,16.9,0.0,1,1,2024,Toulouse
+38,2024-04-07,15:00,Ligue 1,Matchweek 28,Sun,Home,D,0,0,Strasbourg,1.0,0.5,48.0,23495.0,Vincent Sierro,3-4-3,Ruddy Buquet,Match Report,,11.0,2.0,16.8,0.0,0,0,2024,Toulouse
+39,2024-04-13,21:00,Ligue 1,Matchweek 29,Sat,Away,W,2,1,Rennes,0.5,1.0,45.0,28055.0,Rasmus Nicolaisen,3-4-3,Florent Batta,Match Report,,10.0,3.0,14.5,0.0,0,0,2024,Toulouse
+40,2024-04-21,19:00,Ligue 1,Matchweek 30,Sun,Home,D,2,2,Marseille,0.5,1.1,46.0,30119.0,Vincent Sierro,3-4-3,Clément Turpin,Match Report,,10.0,3.0,19.2,0.0,0,0,2024,Toulouse
+41,2024-04-28,15:00,Ligue 1,Matchweek 31,Sun,Away,W,2,1,Lorient,1.8,1.4,51.0,16125.0,Vincent Sierro,3-4-3,Gaël Angoula,Match Report,,14.0,5.0,18.0,0.0,0,0,2024,Toulouse
+42,2024-05-03,19:00,Ligue 1,Matchweek 32,Fri,Home,L,1,2,Montpellier,1.3,0.5,63.0,24559.0,Vincent Sierro,4-3-3,Marc Bollengier,Match Report,,15.0,5.0,17.2,0.0,0,0,2024,Toulouse
 0,2023-08-13,20:45,Ligue 1,Matchweek 1,Sun,Home,W,2,1,Lyon,1.3,1.7,36.0,25410.0,Matz Sels,3-5-2,Jérôme Brisard,Match Report,,8.0,2.0,19.2,1.0,0,0,2024,Strasbourg
 1,2023-08-20,19:00,Ligue 1,Matchweek 2,Sun,Away,L,0,3,Monaco,0.5,0.9,44.0,10100.0,Matz Sels,3-5-2,Ruddy Buquet,Match Report,,4.0,1.0,17.3,1.0,0,0,2024,Strasbourg
 2,2023-08-27,15:00,Ligue 1,Matchweek 3,Sun,Home,W,2,0,Toulouse,3.4,0.3,39.0,25090.0,Matz Sels,3-4-3,Benoît Bastien,Match Report,,11.0,3.0,15.4,0.0,0,0,2024,Strasbourg
@@ -475,6 +478,7 @@
 32,2024-04-21,15:00,Ligue 1,Matchweek 30,Sun,Home,L,0.0,1.0,Metz,0.7,1.3,64.0,21250.0,Arouna Sangante,4-2-3-1,Marc Bollengier,Match Report,,16.0,4.0,21.8,1.0,0,0,2024,Le Havre
 33,2024-04-27,21:00,Ligue 1,Matchweek 31,Sat,Away,D,3.0,3.0,Paris S-G,1.0,2.6,23.0,46000.0,Arouna Sangante,3-4-3,Willy Delajod,Match Report,,5.0,3.0,21.4,0.0,1,1,2024,Le Havre
 34,2024-05-04,15:00,Ligue 1,Matchweek 32,Sat,Home,W,3.0,1.0,Strasbourg,1.8,1.0,39.0,22293.0,Christopher Operi,4-2-3-1,Jérôme Brisard,Match Report,,15.0,6.0,14.0,1.0,0,0,2024,Le Havre
+35,2024-05-10,21:00,Ligue 1,Matchweek 33,Fri,Away,L,0.0,1.0,Nice,0.4,1.5,42.0,,Arouna Sangante,4-4-2,Benoît Bastien,Match Report,,11.0,2.0,22.2,0.0,0,0,2024,Le Havre
 0,2023-08-13,17:05,Ligue 1,Matchweek 1,Sun,Away,L,1,5,Rennes,0.4,4.0,30.0,26065.0,Ismaël Traoré,4-2-3-1,Jeremy Stinat,Match Report,,9.0,3.0,15.6,0.0,0,0,2024,Metz
 1,2023-08-18,21:00,Ligue 1,Matchweek 2,Fri,Home,D,2,2,Marseille,0.5,1.9,43.0,26661.0,Ismaël Traoré,4-1-4-1,Jérôme Brisard,Match Report,,10.0,5.0,22.3,0.0,0,0,2024,Metz
 2,2023-08-27,15:00,Ligue 1,Matchweek 3,Sun,Away,W,1,0,Clermont Foot,1.1,0.7,30.0,9146.0,Matthieu Udol,4-3-3,Gaël Angoula,Match Report,,10.0,5.0,19.1,0.0,0,0,2024,Metz
