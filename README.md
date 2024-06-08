@@ -1,6 +1,6 @@
 # Pronobo
 
-Foot results prediction !
+A Flask App to predict foot results, sponsored by some Machine Learning & Scraping
 
 a school project by
 
