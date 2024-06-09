@@ -1,6 +1,10 @@
 # Pronobo
 
-A Flask App to predict foot results, sponsored by some Machine Learning & Scraping
+We have developed a sports match prediction system designed to automate the analysis and prediction of match outcomes for different football leagues ( Premier League, La Liga, Ligue 1, Serie A, Bundesliga). 
+Our platform integrates a prediction algorithm and a user-friendly interface, suitable for both amateur and professional bettors, with the goal of helping them optimize their bets and maximize their winnings.
+The project follows a detailed execution plan comprising various stages, from data collection to platform maintenance. Ultimately, the project aims to provide a comprehensive and usable solution, offering favorable prospects in terms of improving prediction accuracy and user satisfaction.
+
+Come and try Pronobo now !
 
 a school project by
 
