@@ -16,4 +16,4 @@ a school project by
 
 - <a href="https://github.com/TomHeising" target="_blank">@TomHeising</a>
 
-- & me !
+- & me ! 
